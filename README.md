@@ -33,7 +33,6 @@
 另外關於類型篩選箱內的選項翻譯，我不曉得是否合適或貼切，目前總共70個選項，類型皆來自MyAnimeList
 如果語意不適合歡迎提出
 
-
 網址:
 
-https://tsuiokuyo.netlify.app/animelisttw
+[歷年動畫評分排行榜單](https://tsuiokuyo.github.io/animeListTW.html)
