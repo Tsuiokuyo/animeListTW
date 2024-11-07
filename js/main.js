@@ -1,5 +1,5 @@
 // 麵條式代碼，其實我也很無奈，功能不小心越玩越多
-Vue.config.devtools = true;
+// Vue.config.devtools = true;
 
 let OriginTitile = document.title;
 let titleTime;
@@ -214,7 +214,6 @@ let vue = new Vue({
         db: null,
         seenData: null,
         disableBtn: true,
-        isMemoMode: false,
     },
     computed: {
         listenChange() {
@@ -305,16 +304,31 @@ let vue = new Vue({
                         if ((this.rank1 && rank < parseInt(this.rank1)) || (this.rank2 && rank > parseInt(this.rank2))) return false;
                     
                         // 6. 差異篩選條件
-                        if (this.diff && item.Gamer && item.Gamer.b_score > 0) {
-                            const gScore = item.Gamer.b_score;
-                            const parseDiff = parseFloat(this.diff);
-                            const checkDifference = (a, b) => b && Math.abs(parseFloat(a) - parseFloat(b.b_score)) >= parseDiff;
-                    
-                            if (
-                                Math.abs(parseFloat(gScore) - parseFloat(item.MAL.score || 0)) < parseDiff &&
-                                ![item.BGM, item.Anikore, item.AniList, item.AnimePlanetCom, item.ANN, item.anisearch, item.notifyMoe, item.trakt, item.livechart]
-                                    .some((source) => checkDifference(gScore, source))
-                            ) return false;
+                        if (this.diff) {
+                            let difference = true
+                            if (item.Gamer && item.Gamer.b_score > 0) {
+                                function comput(a, b, range) {
+                                    if (b == null) return false;
+                                    b = b.b_score > 0 ? b.b_score : false
+                                    return Math.abs(parseFloat(a) - parseFloat(b)) >= parseFloat(range)
+                                }
+                                let gScore = item.Gamer.b_score
+                                difference = Math.abs(parseFloat(gScore) - parseFloat(item.MAL.score > 0 ? item.MAL.score : false)) >= parseFloat(this.diff) ||
+                                    comput(gScore, item.BGM, this.diff) ||
+                                    comput(gScore, item.Anikore, this.diff) ||
+                                    comput(gScore, item.AniList, this.diff) ||
+                                    comput(gScore, item.AnimePlanetCom, this.diff) ||
+                                    comput(gScore, item.ANN, this.diff) ||
+                                    comput(gScore, item.anisearch, this.diff) ||
+                                    comput(gScore, item.notifyMoe, this.diff) ||
+                                    comput(gScore, item.trakt, this.diff) ||
+                                    comput(gScore, item.livechart, this.diff)
+                            } else {
+                                return false;
+                            }
+                            if (!difference) {
+                                return false;
+                            }
                         }
                     
                         // 7. 篩選 source 和 type 條件
@@ -349,10 +363,6 @@ let vue = new Vue({
                         
                             if (!nameMatch) return false;
                         }
-                    
-                        // 12. 記憶模式條件
-                        // if (this.isMemoMode && !item.seen) return false;
-                    
                         return true;
                     },
                     
@@ -583,294 +593,265 @@ let vue = new Vue({
         }
     },
     async created() {
-
+        // 初始化圖片和數據加載
         if (this.windowWidth >= 600) {
-            this.hug = await fetch('https://api.waifu.pics/sfw/hug').then((res) => res.json().then((obj) => obj.url));
-            // this.hug = await fetch('https://some-random-api.ml/animu/hug').then((res) => res.json().then((obj) => obj.link));
+            await this.fetchHugImage();
         }
-		
-		let response = await fetch('https://raw.githubusercontent.com/Tsuiokuyo/yuriever.com-main/refs/heads/master/static/test2min.msgpack.zst');
-		let reader = response.body.getReader();
-		let contentLength = +response.headers.get('Content-Length');
-		let loaded = 0;
-		let chunks = [];
-		if (contentLength) {
-		  this.fileSize = (contentLength / (1024 * 1024)).toFixed(2);
-		}
-		while (true) {
-		  const { done, value } = await reader.read();
-		  if (done) break;
-		  chunks.push(value);
-		  loaded += value.length;
-		  if (contentLength) {
-			this.loadingProgress = Math.min((loaded / contentLength * 99).toFixed(2), 99);
-			this.currentLoaded = (loaded / (1024 * 1024)).toFixed(2); 
-		  }
-		}
-		let zippedContent = new Uint8Array(chunks.reduce((acc, val) => acc.concat(Array.from(val)), []));
-		if (!contentLength) {
-		  this.fileSize = (zippedContent.length / (1024 * 1024)).toFixed(2); 
-		}
-		let decompressed = fzstd.decompress(zippedContent);
-		this.rawData = msgpack.decode(decompressed);
-
-		this.isLoading = null; 
-	
-        // let moelongUrl = 'https://www.moelong.com/moelongnews/feed';
-        // let gnnUrl = 'https://gnn.gamer.com.tw/rss.xml';
-
-        let moelongUrl = 'https://raw.githubusercontent.com/Tsuiokuyo/animeListTW/refs/heads/main/rss_data/moelong.json';
-        let gnnUrl = 'https://raw.githubusercontent.com/Tsuiokuyo/animeListTW/refs/heads/main/rss_data/gnn.json';
-
-        let newMoes = [];
-
-        fetch(moelongUrl)
-            .then(response => response.json())
-            .then(data => {
-                const items = data.rss.channel.item;
-                items.forEach(el => {
-                    let date = new Date(el.pubDate._text);
-                    let formattedDate = `(${date.getFullYear()}${date.getMonth() + 1}${date.getDate()})`;
-
-                    let news = {
-                        'title': el.title._text,
-                        'link': el.link._text,
-                        'date': formattedDate
-                    };
-                    newMoes.push(news);
-                });
-                if (newMoes.length > 0) {
-                    this.moelong = newMoes[0];
-                    let moeId = setInterval(() => {
-                        this.moelong = newMoes[Math.floor(Math.random() * newMoes.length)];
-                    }, 6000);
-                    setTimeout(() => {
-                        clearInterval(moeId);
-                        this.moelong = {
-                            'title': '在此網站待了10分鐘以上，已停止新聞迴圈。'
-                        };
-                    }, 600000);
-                } else {
-                    this.moelong = {
-                        'title': '萌朧動漫情報網 RSS本次撈取失敗，請無視，反正也沒甚麼人會看這些資訊。'
-                    };
-                }
-            });
-
-        let newGnns = [];
-
-        fetch(gnnUrl)
-            .then(response => response.json())
-            .then(data => {
-                const items = data.rss.channel.item;
-                items.forEach(el => {
-                    let date = new Date(el.pubDate._text);
-                    let formattedDate = `(${date.getFullYear()}${date.getMonth() + 1}${date.getDate()})`;
-
-                    let news = {
-                        'title': el.title._cdata,
-                        'link': el.link._cdata,
-                        'date': formattedDate
-                    };
-                    newGnns.push(news);
-                });
-                if (newGnns.length > 0) {
-                    this.gnn = newGnns[0];
-                    let gnnId = setInterval(() => {
-                        this.gnn = newGnns[Math.floor(Math.random() * newGnns.length)];
-                    }, 6000);
-                    setTimeout(() => {
-                        clearInterval(gnnId);
-                        this.gnn = {
-                            'title': '在此網站待了10分鐘以上，已停止新聞迴圈。'
-                        };
-                    }, 600000);
-                } else {
-                    this.gnn = {
-                        'title': '巴哈GNN新聞 RSS本次撈取失敗，請無視，反正也沒甚麼人會看這些資訊。'
-                    };
-                }
-            });
-
-        this.$nextTick(function() {
-
-                this.getRandomArray();
-                let genres = []
-                let births = []
-                let onlines = []
-                let studios = []
-                for (item of this.rawData) {
-                    item.myRank = '0'
-                    item.memo = ''
-                    item.seen = false
-                    if (this.disabledNSFW) { //移除18禁
-                        if (item.MAL.genres.includes('Hentai')) {}
-                    }
-                  
-                    for (let [key, value] of Object.entries(item.online)) {
-                        onlines.push(key)
-                    }
-
-                    for (let [key, value] of Object.entries(item.MAL.studios)) {
-                        studios.push(value)
-                    }
-                   
-                    for (gen of item.MAL.genres) {
-                        if (this.disabledZero) {
-                            if (item.score > 0) {
-                                if (this.disabledNSFW) {
-                                    if (!item.MAL.genres.includes('Hentai')) {
-                                        this.badges[gen] = ++this.badges[gen] || 1
-                                    }
-                                } else {
-                                    this.badges[gen] = ++this.badges[gen] || 1
-                                }
-                            }
-                        } else {
-                            if (this.disabledNSFW) {
-                                if (!item.MAL.genres.includes('Hentai')) {
-                                    this.badges[gen] = ++this.badges[gen] || 1
-                                }
-                            } else {
-                                this.badges[gen] = ++this.badges[gen] || 1
-                            }
-
-                        }
-                    }
-                    genres = genres.concat(item.MAL.genres)
-
-
-
-                    //FixMe 正規打錯了 
-                    if (item.MAL.type == "Movie" && item.MAL.duration < 3) {
-                        item.MAL.duration = item.MAL.duration * 60
-                    }
-                    if ('duration' in item.MAL && null != item.MAL.duration && item.MAL.type != "Movie" && item.MAL.duration < 16) {
-                        if (this.disabledZero) {
-                            // if (item.score > 0) {
-                            item.MAL.genres.push('cup')
-                            genres.push('cup')
-                            this.badges['cup'] = ++this.badges['cup'] || 1
-                                // }
-                        } else {
-                            item.MAL.genres.push('cup')
-                            genres.push('cup')
-                            this.badges['cup'] = ++this.badges['cup'] || 1
-                        }
-                    }
-                    if ('voices' in item.MAL && item.MAL.voices.length != 0) {
-                        births = births.concat(item.MAL.voices)
-                    }
-                }
-                onlines = [...new Set(onlines.sort())]
-
-                let studiosMap = new Map() //创建一个Map结构数据
-                studios.map(item => { //遍历数组
-                        if (studiosMap.has(item)) { //如果Map数据中存在当前项，给当前项值（即个数）+1
-                            let current = studiosMap.get(item)
-                            studiosMap.set(item, current += 1)
-                        } else { //如果不存在，则添加该项并将它的个数设置为1
-                            studiosMap.set(item, 1)
-                        }
-                    })
-                    //将map结构数据转换成数组对象，每一项也是数组的形式包裹的key和value 
-                let mapEntries = [...studiosMap.entries()]
-                    // mapEntries  [ [ 'a', 2 ], [ 'ab', 3 ], [ 'abc', 2 ], [ 'bc', 1 ] ]
-                mapEntries.sort((pre, nxt) => {
-                        return pre[1] < nxt[1] ? 1 : -1
-                    }) //给mapEntries 排序
-                let studiosF = mapEntries.map(item => item[0])
-                studiosF.splice(50)
-                this.cmpList = studiosF
-
-
-                // console.log(onlines)
-                this.onlineWatchs = onlines
-                    //FIXME 正規化
-                const set = new Set();
-                births = births.filter(item => !set.has(item.voice) ? set.add(item.voice) : false);
-                this.voiceCount = births.length
-                let events = []
-                let now = new Date()
-                for (item of births) {
-                    if (null != item.birth) {
-                        let bir = new Date(item.birth)
-                        let todayBir = false;
-                        if (now.getMonth() == bir.getMonth() && now.getDate() == bir.getDate()) {
-                            todayBir = true
-                        }
-                        bir = String(now.getFullYear()).concat('-', String(bir.getMonth() + 1), '-', String(bir.getDate()))
-                        events.push({
-                            name: item.name,
-                            start: bir,
-                            voice: item.voice,
-                            isMain: item.isMain,
-                            isSup: item.isSup,
-                            chId: item.chId,
-                            // end: bir,
-                            color: this.setVoiceColor(item.isMain, item.isSup, todayBir),
-                        })
-                    }
-                }
-                events.sort(function(a, b) {
-                    return b.isMain - a.isMain
-                })
-                this.eventVoice = events
-
-                this.badgesDef = this.badges
-                genres = [...new Set(genres.sort())]
-
-                this.genreList = genres
-
-                //抓網址參數
-                let geturl = window.location.href
-                let getqyinfo = geturl.split('?')[1]
-                if (getqyinfo) {
-                    let getqys = new URLSearchParams('?' + getqyinfo)
-                    let getQName = getqys.get('name')
-                    this.search = getQName != null ? getQName : ''
-                    let getQYear = getqys.get('year')
-                    this.year = getQYear != null ? getQYear : ''
-                }
-
-                if (this.toRandom) {
-                    this.rawData.sort(function() {
-                        return (0.5 - Math.random());
-                    });
-                }
-                if (navigator.userAgent.search("Chrome") > -1 || navigator.userAgent.search("Opera") > -1) {
-                    this.memory = 0
-                }
-				this.panel.push(3)
-            }
-
-        )
-
+        await this.loadCompressedData();
+        this.isLoading = null; 
+        await this.loadRSSData();
+    
+        this.$nextTick(() => {
+            this.initializeData();
+            this.parseURLParams();
+            this.randomizeData();
+            this.detectBrowser();
+            this.panel.push(3);
+        });
     },
     async mounted() {
 
     }, //mounted
     updated() {},
     methods: {
-        clearSearch() {
+        async fetchHugImage() {
+            try {
+                const response = await fetch('https://api.waifu.pics/sfw/hug');
+                const data = await response.json();
+                this.hug = data.url;
+            } catch (error) {
+                console.error("Error fetching hug image:", error);
+            }
+        },
+    
+        async loadCompressedData() {
+            try {
+                const response = await fetch('https://raw.githubusercontent.com/Tsuiokuyo/yuriever.com-main/refs/heads/master/static/test2min.msgpack.zst');
+                const reader = response.body.getReader();
+                const contentLength = +response.headers.get('Content-Length');
+                let loaded = 0;
+                const chunks = [];
+    
+                while (true) {
+                    const { done, value } = await reader.read();
+                    if (done) break;
+                    chunks.push(value);
+                    loaded += value.length;
+                    if (contentLength) {
+                        this.loadingProgress = Math.min((loaded / contentLength * 99).toFixed(2), 99);
+                        this.currentLoaded = (loaded / (1024 * 1024)).toFixed(2);
+                    }
+                }
+    
+                const zippedContent = new Uint8Array(chunks.reduce((acc, val) => acc.concat(Array.from(val)), []));
+                const decompressed = fzstd.decompress(zippedContent);
+                this.rawData = msgpack.decode(decompressed);
+                this.fileSize = contentLength ? (contentLength / (1024 * 1024)).toFixed(2) : (zippedContent.length / (1024 * 1024)).toFixed(2);
+    
+            } catch (error) {
+                console.error("Error loading compressed data:", error);
+            }
+        },
+    
+        async loadRSSData() {
+            const urls = [
+                { name: 'moelong', url: 'https://raw.githubusercontent.com/Tsuiokuyo/animeListTW/refs/heads/main/rss_data/moelong.json' },
+                { name: 'gnn', url: 'https://raw.githubusercontent.com/Tsuiokuyo/animeListTW/refs/heads/main/rss_data/gnn.json' }
+            ];
+            
+            for (const { name, url } of urls) {
+                try {
+                    const response = await fetch(url);
+                    const data = await response.json();
+                    this.setNewsData(name, data);
+                } catch (error) {
+                    console.error(`Error loading RSS data for ${name}:`, error);
+                    this[name] = { title: `${name.toUpperCase()} RSS 本次撈取失敗，請無視。` };
+                }
+            }
+        },
+    
+        setNewsData(name, data) {
+            const items = data.rss.channel.item;
+            const newsList = items.map(el => {
+                const date = new Date(el.pubDate._text);
+                return {
+                    title: name === 'moelong' ? el.title._text : el.title._cdata,
+                    link: name === 'moelong' ? el.link._text : el.link._cdata,
+                    date: `(${date.getFullYear()}${date.getMonth() + 1}${date.getDate()})`
+                };
+            });
+    
+            if (newsList.length) {
+                this[name] = newsList[0];
+                const intervalId = setInterval(() => {
+                    this[name] = newsList[Math.floor(Math.random() * newsList.length)];
+                }, 6000);
+    
+                setTimeout(() => {
+                    clearInterval(intervalId);
+                    this[name] = { title: '在此網站待了10分鐘以上，已停止新聞迴圈。' };
+                }, 600000);
+            }
+        },
+    
+        initializeData() {
+            this.getRandomArray();
+            let { onlines, studios, genres, births } = this.processRawData();
+            
+            // 去重并计算 voiceCount
+            const set = new Set();
+            const uniqueBirths = [];
+            births.forEach(item => {
+                if (!set.has(item.voice)) {
+                    set.add(item.voice);
+                    uniqueBirths.push(item);  // 去重后的出生数据
+                }
+            });
+            this.voiceCount = uniqueBirths.length;  // 更新去重后的人数
+        
+            // 处理事件数据
+            let events = [];
+            let now = new Date();
+            uniqueBirths.forEach(item => {
+                if (item.birth != null) {
+                    let bir = new Date(item.birth);
+                    let todayBir = (now.getMonth() === bir.getMonth() && now.getDate() === bir.getDate());
+                    bir = `${now.getFullYear()}-${bir.getMonth() + 1}-${bir.getDate()}`;
+                    
+                    events.push({
+                        name: item.name,
+                        start: bir,
+                        voice: item.voice,
+                        isMain: item.isMain,
+                        isSup: item.isSup,
+                        chId: item.chId,
+                        color: this.setVoiceColor(item.isMain, item.isSup, todayBir),
+                    });
+                }
+            });
+        
+            // 排序事件，主要按 isMain 排序
+            events.sort((a, b) => b.isMain - a.isMain);
+            this.eventVoice = events;
+        
+            // 处理 badges 和 genres
+            this.badgesDef = this.badges;
+            genres = [...new Set(genres.sort())];
+            this.genreList = genres;
+        },
+    
+        processRawData() {
+            const onlines = [];
+            const studios = [];
+            const genres = [];
+            const births = [];
+            
+            for (const item of this.rawData) {
+                this.initializeItem(item);
+                // if (this.disabledNSFW && item.MAL.genres.includes('Hentai')) continue;
+                
+                this.collectGenres(item, genres);
+                this.collectOnlineStudios(item, onlines, studios);
+                this.collectBirths(item, births);  
+            }
+        
+            return { onlines, studios, genres, births };
+        },
+    
+        initializeItem(item) {
+            item.myRank = '0';
+            item.memo = '';
+            item.seen = false;
+            if (item.MAL.type === "Movie" && item.MAL.duration < 3) item.MAL.duration *= 60;
+            if ('duration' in item.MAL && item.MAL.duration < 16 && item.MAL.type !== "Movie") this.assignCupGenre(item);
+        },
+    
+        collectGenres(item, genres) {
+            item.MAL.genres.forEach(gen => {
+                if ((this.disabledZero && item.score > 0) || !this.disabledZero) {
+                    if (!this.disabledNSFW || !item.MAL.genres.includes('Hentai')) {
+                        this.badges[gen] = ++this.badges[gen] || 1;
+                    }
+                }
+            });
+            genres.push(...item.MAL.genres);
+        },
+    
+        collectOnlineStudios(item, onlines, studios) {
+            onlines.push(...Object.keys(item.online));
+            studios.push(...Object.values(item.MAL.studios));
+        },
+    
+        collectBirths(item, births) {
+            if ('voices' in item.MAL && item.MAL.voices.length) {
+                births.push(...item.MAL.voices); 
+            }
+        },
+
+        assignCupGenre(item) {
+            item.MAL.genres.push('cup');
+            this.badges['cup'] = ++this.badges['cup'] || 1;
+        },
+    
+        processStudios(studios) {
+            const studiosMap = new Map();
+            studios.forEach(studio => studiosMap.set(studio, (studiosMap.get(studio) || 0) + 1));
+            const sortedStudios = [...studiosMap.entries()].sort((a, b) => b[1] - a[1]);
+            return sortedStudios.slice(0, 50).map(entry => entry[0]);
+        },
+    
+        getEventVoices(births) {
+            const events = [];
+            const now = new Date();
+            const uniqueBirths = [...new Set(births.map(item => item.voice))];
+    
+            uniqueBirths.forEach(item => {
+                if (item.birth) {
+                    const birDate = new Date(item.birth);
+                    const formattedBirth = `${now.getFullYear()}-${birDate.getMonth() + 1}-${birDate.getDate()}`;
+                    events.push({
+                        name: item.name,
+                        start: formattedBirth,
+                        voice: item.voice,
+                        isMain: item.isMain,
+                        isSup: item.isSup,
+                        chId: item.chId,
+                        color: this.setVoiceColor(item.isMain, item.isSup, birDate.getMonth() === now.getMonth() && birDate.getDate() === now.getDate())
+                    });
+                }
+            });
+    
+            return events.sort((a, b) => b.isMain - a.isMain);
+        },
+    
+        parseURLParams() {
+            const urlParams = new URLSearchParams(window.location.search);
+            this.search = urlParams.get('name') || '';
+            this.year = urlParams.get('year') || '';
+        },
+    
+        randomizeData() {
+            if (this.toRandom) this.rawData.sort(() => 0.5 - Math.random());
+        },
+    
+        detectBrowser() {
+            if (navigator.userAgent.includes("Chrome") || navigator.userAgent.includes("Opera")) {
+                this.memory = 0;
+            }
+        },
+        clearSearch: () => {
             this.search = '';
             this.queryBtn = false;
         },
 
         setRankColor(i) {
-            let pitch = 255 / this.rawData.length;
-            pitch = 255 - (pitch * i)
-            return 'color: rgb(255,' + pitch + ',0);';
+            const pitch = 255 - (255 / this.rawData.length * i);
+            return `color: rgb(255, ${pitch}, 0);`;
         },
+        
         setSimilarityColor(i) {
-
-            if (parseFloat(i) > 0.9) {
-                return 'color: red';
-            } else if (parseFloat(i) > 0.8) {
-                return 'color: orange';
-            } else {
-                return 'color: black ';
-            }
+            return `color: ${parseFloat(i) > 0.9 ? 'red' : parseFloat(i) > 0.8 ? 'orange' : 'black'}`;
         },
         setCover(item, lazy) {
             let cdn2 = 'https://wsrv.nl/?url=' //&output=webp&q=54
@@ -895,7 +876,7 @@ let vue = new Vue({
             }
         },
         toggleFullscreen(item) {
-			 this.selectedImage = "https://cdn.myanimelist.net/images/anime/" + item.MAL.image.replace('.webp', '') + 'l.webp'
+            this.selectedImage = `https://cdn.myanimelist.net/images/anime/${item.MAL.image.replace('.webp', '')}l.webp`;
         },
         customSort(items, index, isDescending) {
             if (this.toRandom) {
@@ -1035,49 +1016,31 @@ let vue = new Vue({
             return items;
         },
         getRandomArray() {
-            this.randomTen = []
-            let shuffled = this.rawData.slice(0),
-                i = this.rawData.length,
-                min = i - 10,
-                temp, index;
-            while (i-- > min) {
-                index = Math.floor((i + 1) * Math.random());
-                temp = shuffled[index];
-                shuffled[index] = shuffled[i];
-                shuffled[i] = temp;
-            }
-            let check = shuffled.slice(min)
-            for (item of check) {
-                if (this.disabledNSFW) {
-                    if (item.MAL.genres.includes('Hentai')) {
-                        return this.getRandomArray()
-                    }
+            function shuffleArray(arr) {
+                let shuffled = arr.slice(); 
+                for (let i = shuffled.length - 1; i > 0; i--) {
+                    const j = Math.floor(Math.random() * (i + 1));
+                    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
                 }
+                return shuffled;
             }
-            this.randomTen = check
+        
+            const shuffled = shuffleArray(this.rawData).slice(-10);
+            
+            if (this.disabledNSFW && shuffled.some(item => item.MAL.genres.includes('Hentai'))) {
+                return this.getRandomArray();
+            }
+            
+            this.randomTen = shuffled;
         },
         randomListTitle(item) {
-            if (null != item.Gamer) {
-                return item.Gamer.title
-            } else if (null != item.BGM) {
-                return item.BGM.cn_name
-            } else if (null != item.MAL.jp_name) {
-                return item.MAL.jp_name;
-            } else {
-                return item.MAL.title
-            }
+            return item.Gamer?.title || item.BGM?.cn_name || item.MAL.jp_name || item.MAL.title;
         },
         onlineList(item) {
-            let online = new Object();
-            let format = new Object();
-            if (!!item) {
-                for (let [key, value] of Object.entries(item)) {
-                    value = this.addUrl(key, value)
-                    format[key] = value
-
-                }
-            }
-            return format;
+            return Object.entries(item || {}).reduce((format, [key, value]) => {
+                format[key] = this.addUrl(key, value);
+                return format;
+            }, {});
         },
         addUrl(key, id) {
             if (id.indexOf('watchnow') != -1) {
@@ -1187,16 +1150,6 @@ let vue = new Vue({
 
             return [name, id];
         },
-        toTop() {
-            $("html,body").animate({
-                scrollTop: $(document).height()
-            }, 800);
-        },
-        toFooter() {
-            $("html,body").animate({
-                scrollTop: 0
-            }, 800);
-        },
         lamu(value) {
             if (value == 'A') {
                 return 'https://yuriever.com/image/lamuA.webp'
@@ -1234,6 +1187,7 @@ let vue = new Vue({
             }
             return 'image/noImage.webp'
         },
+        
         setBackgroundLazy(entries, observer, isIntersecting) {
             let bg = 'https://yuriever.com/image/background.webp'
             let cdn = 'https://tsuiokuyo-9688.imgix.net/'
@@ -1583,5 +1537,7 @@ let vue = new Vue({
                 return false;
             }
         },
+        toTop: () => $("html,body").animate({ scrollTop: $(document).height() }, 800),
+        toFooter: () => $("html,body").animate({ scrollTop: 0 }, 800),
     }, //methonds
 });
