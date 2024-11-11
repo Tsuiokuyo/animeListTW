@@ -1,0 +1,66 @@
+name: Fetch RSS Feeds
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 每天午夜运行一次，可以根据需要调整
+  workflow_dispatch:      # 支持手动触发
+
+jobs:
+  fetchRSS:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'  # 或其他合适的版本
+
+      - name: Install Dependencies
+        run: |
+          npm install axios xml-js
+
+      - name: Fetch and Convert Moelong RSS Feed
+        run: |
+          mkdir -p rss_data
+          node -e "
+          const axios = require('axios');
+          const convert = require('xml-js');
+          (async () => {
+            try {
+              const moelongResponse = await axios.get('https://www.moelong.com/moelongnews/feed');
+              const moelongResult = convert.xml2json(moelongResponse.data, { compact: true, spaces: 2 });
+              require('fs').writeFileSync('./rss_data/moelong.json', moelongResult);
+            } catch (error) {
+              console.error('Error fetching Moelong RSS:', error);
+            }
+          })();
+          "
+
+      - name: Fetch and Convert GNN RSS Feed
+        run: |
+          node -e "
+          const axios = require('axios');
+          const convert = require('xml-js');
+          (async () => {
+            try {
+              const gnnResponse = await axios.get('https://gnn.gamer.com.tw/rss.xml');
+              const gnnResult = convert.xml2json(gnnResponse.data, { compact: true, spaces: 2 });
+              require('fs').writeFileSync('./rss_data/gnn.json', gnnResult);
+            } catch (error) {
+              console.error('Error fetching GNN RSS:', error);
+            }
+          })();
+          "
+
+      - name: Commit and Push RSS JSON
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add rss_data/moelong.json rss_data/gnn.json
+          git commit -m "Auto Update RSS feeds"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
