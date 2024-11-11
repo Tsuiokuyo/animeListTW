@@ -1,0 +1,336 @@
+{
+  "_declaration": {
+    "_attributes": {
+      "version": "1.0",
+      "encoding": "UTF-8"
+    }
+  },
+  "rss": {
+    "_attributes": {
+      "version": "2.0",
+      "xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+      "xmlns:wfw": "http://wellformedweb.org/CommentAPI/",
+      "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "xmlns:atom": "http://www.w3.org/2005/Atom",
+      "xmlns:sy": "http://purl.org/rss/1.0/modules/syndication/",
+      "xmlns:slash": "http://purl.org/rss/1.0/modules/slash/",
+      "xmlns:media": "http://search.yahoo.com/mrss/",
+      "xmlns:georss": "http://www.georss.org/georss",
+      "xmlns:geo": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+    },
+    "channel": {
+      "title": {
+        "_text": "萌朧動漫情報網"
+      },
+      "atom:link": {
+        "_attributes": {
+          "href": "https://www.moelong.com/moelongnews/feed",
+          "rel": "self",
+          "type": "application/rss+xml"
+        }
+      },
+      "link": {
+        "_text": "https://www.moelong.com/moelongnews"
+      },
+      "description": {},
+      "lastBuildDate": {
+        "_text": "Sun, 10 Nov 2024 17:12:26 +0000"
+      },
+      "language": {
+        "_text": "zh-TW"
+      },
+      "sy:updatePeriod": {
+        "_text": "\n\thourly\t"
+      },
+      "sy:updateFrequency": {
+        "_text": "\n\t1\t"
+      },
+      "generator": {
+        "_text": "https://wordpress.org/?v=6.6.2"
+      },
+      "image": {
+        "url": {
+          "_text": "https://www.moelong.com/moelongnews/wp-content/uploads/2020/07/cropped-maid-32x32.jpg"
+        },
+        "title": {
+          "_text": "萌朧動漫情報網"
+        },
+        "link": {
+          "_text": "https://www.moelong.com/moelongnews"
+        },
+        "width": {
+          "_text": "32"
+        },
+        "height": {
+          "_text": "32"
+        }
+      },
+      "site": {
+        "_attributes": {
+          "xmlns": "com-wordpress:feed-additions:1"
+        },
+        "_text": "180304636"
+      },
+      "item": [
+        {
+          "title": {
+            "_text": "「DLsite 秋の回憶 特惠活動」進行中 推出特別回饋優惠券、中文同捆購買特惠等"
+          },
+          "link": {
+            "_text": "https://www.moelong.com/moelongnews/archives/30850"
+          },
+          "comments": {
+            "_text": "https://www.moelong.com/moelongnews/archives/30850#respond"
+          },
+          "dc:creator": {
+            "_cdata": "萌朧雪猴"
+          },
+          "pubDate": {
+            "_text": "Sun, 10 Nov 2024 17:12:20 +0000"
+          },
+          "category": {
+            "_cdata": "DLsite"
+          },
+          "guid": {
+            "_attributes": {
+              "isPermaLink": "false"
+            },
+            "_text": "https://www.moelong.com/moelongnews/?p=30850"
+          },
+          "description": {
+            "_cdata": "<p>DLsite公開最新中文語系特別活動：「DLsite 秋の回憶 特惠活動」，除了介紹中文矚目新作外，也提供特別回饋優惠券、中文同捆購買特惠等活動。</p>\n<p>這篇文章 <a rel=\"nofollow\" href=\"https://www.moelong.com/moelongnews/archives/30850\">「DLsite 秋の回憶 特惠活動」進行中 推出特別回饋優惠券、中文同捆購買特惠等</a> 最早出現於 <a rel=\"nofollow\" href=\"https://www.moelong.com/moelongnews\">萌朧動漫情報網</a>。</p>\n"
+          },
+          "content:encoded": {
+            "_cdata": "\n<p class=\"has-medium-font-size\">DLsite公開最新中文語系特別活動：「DLsite 秋の回憶 特惠活動」，除了介紹中文矚目新作外，也提供特別回饋優惠券、中文同捆購買特惠等活動。</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img fetchpriority=\"high\" decoding=\"async\" width=\"1024\" height=\"553\" src=\"https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/11010424/202411singlesdaytw01-1024x553.webp\" alt=\"202411singlesdaytw01\" class=\"wp-image-30851\" title=\"「DLsite 秋の回憶 特惠活動」進行中 推出特別回饋優惠券、中文同捆購買特惠等 1\" srcset=\"https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/11010424/202411singlesdaytw01-1024x553.webp 1024w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/11010424/202411singlesdaytw01-300x162.webp 300w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/11010424/202411singlesdaytw01-768x415.webp 768w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/11010424/202411singlesdaytw01-750x405.webp 750w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/11010424/202411singlesdaytw01-1140x616.webp 1140w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/11010424/202411singlesdaytw01.webp 1478w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></figure>\n\n\n\n<div style=\"height:30px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<p class=\"has-medium-font-size\">特別回饋優惠券包含提供給新會員，可用於所有作品的300円優惠券；還有根據用戶的使用情況，提供的「感謝與回饋」優惠券。</p>\n\n\n\n<figure class=\"wp-block-image size-full\"><img decoding=\"async\" width=\"857\" height=\"845\" src=\"https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/11010428/202411singlesdaytw02.webp\" alt=\"202411singlesdaytw02\" class=\"wp-image-30852\" title=\"「DLsite 秋の回憶 特惠活動」進行中 推出特別回饋優惠券、中文同捆購買特惠等 2\" srcset=\"https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/11010428/202411singlesdaytw02.webp 857w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/11010428/202411singlesdaytw02-300x296.webp 300w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/11010428/202411singlesdaytw02-768x757.webp 768w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/11010428/202411singlesdaytw02-75x75.webp 75w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/11010428/202411singlesdaytw02-750x739.webp 750w\" sizes=\"(max-width: 857px) 100vw, 857px\" /></figure>\n\n\n\n<div style=\"height:30px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<p class=\"has-medium-font-size\">大家一起來翻譯則是提供最多7.5折的優惠券。</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img decoding=\"async\" width=\"1024\" height=\"669\" src=\"https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/11010432/202411singlesdaytw03-1024x669.webp\" alt=\"202411singlesdaytw03\" class=\"wp-image-30853\" title=\"「DLsite 秋の回憶 特惠活動」進行中 推出特別回饋優惠券、中文同捆購買特惠等 3\" srcset=\"https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/11010432/202411singlesdaytw03-1024x669.webp 1024w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/11010432/202411singlesdaytw03-300x196.webp 300w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/11010432/202411singlesdaytw03-768x502.webp 768w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/11010432/202411singlesdaytw03-750x490.webp 750w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/11010432/202411singlesdaytw03-1140x745.webp 1140w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/11010432/202411singlesdaytw03.webp 1230w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></figure>\n\n\n\n<div style=\"height:30px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<p class=\"has-medium-font-size\">另外中文矚目新作，則是有模擬類遊戲<a href=\"https://www.dlsite.com/maniax/dlaf/=/t/s/link/work/aid/moelong2307/locale/zh_TW/id/RJ01189784.html/?locale=zh_TW\" target=\"_blank\" data-type=\"link\" data-id=\"https://www.dlsite.com/maniax/dlaf/=/t/s/link/work/aid/moelong2307/locale/zh_TW/id/RJ01189784.html/?locale=zh_TW\" rel=\"noreferrer noopener\">《Sisters Connect 想要訴説的心意》</a>。</p>\n\n\n\n<a rel=\"noopener sponsored\" href=\"https://www.dlsite.com/maniax/dlaf/=/t/i/link/work/aid/moelong2307/locale/zh_TW/id/RJ01189784.html/?locale=zh_TW\" target=\"_blank\"><img decoding=\"async\" itemprop=\"image\" src=\"//img.dlsite.jp/modpub/images2/work/doujin/RJ01190000/RJ01189784_img_main.jpg\" alt=\"RJ01189784 img main\" border=\"0\" class=\"target_type\" title=\"「DLsite 秋の回憶 特惠活動」進行中 推出特別回饋優惠券、中文同捆購買特惠等 4\"></a>\n\n\n\n<div style=\"height:30px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<p class=\"has-medium-font-size\">與ASMR<a href=\"https://www.dlsite.com/maniax/dlaf/=/t/s/link/work/aid/moelong2307/locale/zh_TW/id/RJ01255809.html/?locale=zh_TW\" target=\"_blank\" data-type=\"link\" data-id=\"https://www.dlsite.com/maniax/dlaf/=/t/s/link/work/aid/moelong2307/locale/zh_TW/id/RJ01255809.html/?locale=zh_TW\" rel=\"noreferrer noopener\">《與悠姊姊在圖書館的秘密自習課》</a>。</p>\n\n\n\n<a rel=\"noopener sponsored\" href=\"https://www.dlsite.com/maniax/dlaf/=/t/i/link/work/aid/moelong2307/locale/zh_TW/id/RJ01255809.html/?locale=zh_TW\" target=\"_blank\"><img decoding=\"async\" itemprop=\"image\" src=\"//img.dlsite.jp/modpub/images2/work/doujin/RJ01256000/RJ01255809_img_main.jpg\" alt=\"RJ01255809 img main\" border=\"0\" class=\"target_type\" title=\"「DLsite 秋の回憶 特惠活動」進行中 推出特別回饋優惠券、中文同捆購買特惠等 5\"></a>\n\n\n\n<div style=\"height:30px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<p class=\"has-medium-font-size\">中文同捆購買特惠，在<a href=\"https://www.dlsite.com/pro/dlaf/=/aid/moelong2307/url/https%3A%2F%2Fwww.dlsite.com%2Fpro%2Fcampaign%2Fbulkbuy%2F%3D%2Fkey%2Fzh202411%2F%3Futm_medium%3Daffiliate%26utm_campaign%3Dbnlink%26utm_content%3Dtext\" target=\"_blank\" data-type=\"link\" data-id=\"https://www.dlsite.com/pro/dlaf/=/aid/moelong2307/url/https%3A%2F%2Fwww.dlsite.com%2Fpro%2Fcampaign%2Fbulkbuy%2F%3D%2Fkey%2Fzh202411%2F%3Futm_medium%3Daffiliate%26utm_campaign%3Dbnlink%26utm_content%3Dtext\" rel=\"noreferrer noopener\">指定頁面</a>中同時購買3部活動作品，享最高5折折扣。</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"716\" src=\"https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/11010436/202411singlesdaytw04-1024x716.webp\" alt=\"202411singlesdaytw04\" class=\"wp-image-30854\" title=\"「DLsite 秋の回憶 特惠活動」進行中 推出特別回饋優惠券、中文同捆購買特惠等 6\" srcset=\"https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/11010436/202411singlesdaytw04-1024x716.webp 1024w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/11010436/202411singlesdaytw04-300x210.webp 300w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/11010436/202411singlesdaytw04-768x537.webp 768w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/11010436/202411singlesdaytw04-750x524.webp 750w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/11010436/202411singlesdaytw04-1140x797.webp 1140w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/11010436/202411singlesdaytw04.webp 1236w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></figure>\n\n\n\n<div style=\"height:30px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<p class=\"has-medium-font-size\">「DLsite 秋の回憶 特惠活動」至2024年11月13日22：59分(台灣時間)</p>\n\n\n\n<div style=\"height:30px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<p class=\"has-medium-font-size\"><a href=\"https://tongren.jp/lp/maniax/singlesday202411/tw/\" target=\"_blank\" data-type=\"link\" data-id=\"https://tongren.jp/lp/maniax/singlesday202411/tw/\" rel=\"noreferrer noopener\"> 「DLsite 秋の回憶 特惠活動」活動頁面</a></p>\n<p>這篇文章 <a rel=\"nofollow\" href=\"https://www.moelong.com/moelongnews/archives/30850\">「DLsite 秋の回憶 特惠活動」進行中 推出特別回饋優惠券、中文同捆購買特惠等</a> 最早出現於 <a rel=\"nofollow\" href=\"https://www.moelong.com/moelongnews\">萌朧動漫情報網</a>。</p>\n"
+          },
+          "wfw:commentRss": {
+            "_text": "https://www.moelong.com/moelongnews/archives/30850/feed"
+          },
+          "slash:comments": {
+            "_text": "0"
+          },
+          "post-id": {
+            "_attributes": {
+              "xmlns": "com-wordpress:feed-additions:1"
+            },
+            "_text": "30850"
+          }
+        },
+        {
+          "title": {
+            "_text": "「hololive production / FURYU 系列」將登台 11 月 14 日推出首波商品「絨毛手偶」和「絨毛趴姿」"
+          },
+          "link": {
+            "_text": "https://www.moelong.com/moelongnews/archives/30844"
+          },
+          "comments": {
+            "_text": "https://www.moelong.com/moelongnews/archives/30844#respond"
+          },
+          "dc:creator": {
+            "_cdata": "萌朧雪猴"
+          },
+          "pubDate": {
+            "_text": "Sun, 10 Nov 2024 16:02:00 +0000"
+          },
+          "category": [
+            {
+              "_cdata": "模型周邊"
+            },
+            {
+              "_cdata": "周邊情報"
+            },
+            {
+              "_cdata": "Hololive"
+            },
+            {
+              "_cdata": "Vtuber"
+            }
+          ],
+          "guid": {
+            "_attributes": {
+              "isPermaLink": "false"
+            },
+            "_text": "https://www.moelong.com/moelongnews/?p=30844"
+          },
+          "description": {
+            "_cdata": "<p>重星戰略企劃確定引進 FURYU Corporation 正規授權的「hololive production / FURYU 系列」商品，首波商品為「絨毛手偶」和「絨毛趴姿」系列商品。</p>\n<p>這篇文章 <a rel=\"nofollow\" href=\"https://www.moelong.com/moelongnews/archives/30844\">「hololive production / FURYU 系列」將登台 11 月 14 日推出首波商品「絨毛手偶」和「絨毛趴姿」</a> 最早出現於 <a rel=\"nofollow\" href=\"https://www.moelong.com/moelongnews\">萌朧動漫情報網</a>。</p>\n"
+          },
+          "content:encoded": {
+            "_cdata": "\n<p class=\"has-medium-font-size\">重星戰略企劃確定引進 FURYU Corporation 正規授權的「hololive production / FURYU 系列」商品，首波商品為「絨毛手偶」和「絨毛趴姿」系列商品。</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img decoding=\"async\" src=\"https://img.moelong.com/images/2024Hololivefuryubecometrue1st/2024Hololivefuryubecometrue1st01.webp\" alt=\"2024Hololivefuryubecometrue1st01\" title=\"「hololive production / FURYU 系列」將登台 11 月 14 日推出首波商品「絨毛手偶」和「絨毛趴姿」 7\"></figure>\n\n\n\n<div style=\"height:30px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<p class=\"has-medium-font-size\">「hololive production / FURYU 系列」首波代理授權首波上市商品，包括「絨毛手偶」和「絨毛趴姿」，將有時乃空 （ときのそら）、星街彗星（星街すいせい）、兔田佩克拉（兎田ぺこら） 等七位VTuber，並分為常服與幼稚園兩種款式的造型。</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img decoding=\"async\" src=\"https://img.moelong.com/images/2024Hololivefuryubecometrue1st/2024Hololivefuryubecometrue1st02.webp\" alt=\"2024Hololivefuryubecometrue1st02\" title=\"「hololive production / FURYU 系列」將登台 11 月 14 日推出首波商品「絨毛手偶」和「絨毛趴姿」 8\"></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><img decoding=\"async\" src=\"https://img.moelong.com/images/2024Hololivefuryubecometrue1st/2024Hololivefuryubecometrue1st03.webp\" alt=\"2024Hololivefuryubecometrue1st03\" title=\"「hololive production / FURYU 系列」將登台 11 月 14 日推出首波商品「絨毛手偶」和「絨毛趴姿」 9\"></figure>\n\n\n\n<div style=\"height:30px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<p class=\"has-medium-font-size\">手偶雙臂附有彈性繩，粉絲可以輕鬆操控手偶握持應援手燈等物品。此外，商品附有官方特典等售後服務，未來將推出更多系列商品。</p>\n\n\n\n<div style=\"height:30px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<p class=\"has-medium-font-size\">為慶祝「hololive production / FURYU 系列」商品正式在台上市， 11 月 14 日至 12 月 31 日舉辦開幕慶活動，活動期間預購「絨毛手偶&amp;絨毛趴姿」將可獲得隨機透卡、光柵明信片等特典，此外消費達指定金額還可升級成為 VIP，預購頁面也已公開。</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img decoding=\"async\" src=\"https://img.moelong.com/images/2024Hololivefuryubecometrue1st/2024Hololivefuryubecometrue1st04.webp\" alt=\"2024Hololivefuryubecometrue1st04\" title=\"「hololive production / FURYU 系列」將登台 11 月 14 日推出首波商品「絨毛手偶」和「絨毛趴姿」 10\"></figure>\n\n\n\n<div style=\"height:30px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<p class=\"has-medium-font-size\"><a href=\"https://becometrue.myshopify.com/collections/furyu\" data-type=\"link\" data-id=\"https://becometrue.myshopify.com/collections/furyu\" target=\"_blank\" rel=\"noopener\"> 預購頁</a><a href=\"https://becometrue.myshopify.com/collections/furyu\" target=\"_blank\" data-type=\"link\" data-id=\"https://becometrue.myshopify.com/collections/furyu\" rel=\"noreferrer noopener\">面</a></p>\n<p>這篇文章 <a rel=\"nofollow\" href=\"https://www.moelong.com/moelongnews/archives/30844\">「hololive production / FURYU 系列」將登台 11 月 14 日推出首波商品「絨毛手偶」和「絨毛趴姿」</a> 最早出現於 <a rel=\"nofollow\" href=\"https://www.moelong.com/moelongnews\">萌朧動漫情報網</a>。</p>\n"
+          },
+          "wfw:commentRss": {
+            "_text": "https://www.moelong.com/moelongnews/archives/30844/feed"
+          },
+          "slash:comments": {
+            "_text": "0"
+          },
+          "post-id": {
+            "_attributes": {
+              "xmlns": "com-wordpress:feed-additions:1"
+            },
+            "_text": "30844"
+          }
+        },
+        {
+          "title": {
+            "_text": "「四季童子原畫展 in Taiwan」高雄場 將於11月12日－11月24日在高雄駅一番街舉辦"
+          },
+          "link": {
+            "_text": "https://www.moelong.com/moelongnews/archives/30838"
+          },
+          "comments": {
+            "_text": "https://www.moelong.com/moelongnews/archives/30838#respond"
+          },
+          "dc:creator": {
+            "_cdata": "萌朧雪猴"
+          },
+          "pubDate": {
+            "_text": "Sat, 09 Nov 2024 16:44:59 +0000"
+          },
+          "category": [
+            {
+              "_cdata": "活動新訊/報導"
+            },
+            {
+              "_cdata": "活動新訊"
+            },
+            {
+              "_cdata": "原畫展"
+            },
+            {
+              "_cdata": "四季童子"
+            }
+          ],
+          "guid": {
+            "_attributes": {
+              "isPermaLink": "false"
+            },
+            "_text": "https://www.moelong.com/moelongnews/?p=30838"
+          },
+          "description": {
+            "_cdata": "<p>繼「四季童子原畫展 in Taiwan」台北場，「四季童子原畫展 in Taiwan」高雄場確定將自11月12日起在高雄駅一番街舉辦。</p>\n<p>這篇文章 <a rel=\"nofollow\" href=\"https://www.moelong.com/moelongnews/archives/30838\">「四季童子原畫展 in Taiwan」高雄場 將於11月12日－11月24日在高雄駅一番街舉辦</a> 最早出現於 <a rel=\"nofollow\" href=\"https://www.moelong.com/moelongnews\">萌朧動漫情報網</a>。</p>\n"
+          },
+          "content:encoded": {
+            "_cdata": "\n<p class=\"has-medium-font-size\">繼「四季童子原畫展 in Taiwan」台北場，「四季童子原畫展 in Taiwan」高雄場確定將自11月12日起在高雄駅一番街舉辦。</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"803\" src=\"https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/10004031/2024shikidojinovkaohsiungnews01-1024x803.webp\" alt=\"2024shikidojinovkaohsiungnews01\" class=\"wp-image-30839\" title=\"「四季童子原畫展 in Taiwan」高雄場 將於11月12日－11月24日在高雄駅一番街舉辦 11\" srcset=\"https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/10004031/2024shikidojinovkaohsiungnews01-1024x803.webp 1024w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/10004031/2024shikidojinovkaohsiungnews01-300x235.webp 300w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/10004031/2024shikidojinovkaohsiungnews01-768x602.webp 768w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/10004031/2024shikidojinovkaohsiungnews01-750x588.webp 750w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/10004031/2024shikidojinovkaohsiungnews01-1140x893.webp 1140w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/10004031/2024shikidojinovkaohsiungnews01.webp 1503w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></figure>\n\n\n\n<div style=\"height:30px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<p class=\"has-medium-font-size\"><a href=\"https://www.moelong.com/moelongnews/archives/28869\" data-type=\"link\" data-id=\"https://www.moelong.com/moelongnews/archives/28869\" target=\"_blank\" rel=\"noreferrer noopener\">「四季童子原畫展 in Taiwan」台北場</a>，展出作品包含版權作品在內有超過100張的原畫來台展出，其中大部分為《驚爆危機(フルメタル・パニック！、Full Metal Panic！)》，另外還有輕小說系列《モンスター・コレクション・ノベル》、TRPG《ヴィジョンコネクト》及原創作品等。 </p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img decoding=\"async\" src=\"https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/10/08204447/2024Peperoll2943shikidojioctevent65.jpg\" alt=\"2024Peperoll2943shikidojioctevent65\" title=\"「四季童子原畫展 in Taiwan」高雄場 將於11月12日－11月24日在高雄駅一番街舉辦 12\"></figure>\n\n\n\n<div style=\"height:30px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<p class=\"has-medium-font-size\">而先前預定11月舉辦的高雄場，四季童子也在<a href=\"https://x.com/shikidoji/status/1854327378891444422\" data-type=\"link\" data-id=\"https://x.com/shikidoji/status/1854327378891444422\" target=\"_blank\" rel=\"noreferrer noopener\">X</a>公開，確定將於11月12日－11月24日在高雄駅一番街B2 A6櫃位舉辦，「高雄駅一番街」為南台灣首座ACG主題商場，位於R11高雄新站「地下二三樓」的捷運層，可以直接搭乘高雄捷運至R11高雄車站前往。</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"743\" height=\"1024\" src=\"https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/10220300/024shikidojinovkaohsiungmap-743x1024.jpg\" alt=\"024shikidojinovkaohsiungmap\" class=\"wp-image-30842\" title=\"「四季童子原畫展 in Taiwan」高雄場 將於11月12日－11月24日在高雄駅一番街舉辦 13\" srcset=\"https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/10220300/024shikidojinovkaohsiungmap-743x1024.jpg 743w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/10220300/024shikidojinovkaohsiungmap-218x300.jpg 218w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/10220300/024shikidojinovkaohsiungmap-768x1058.jpg 768w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/10220300/024shikidojinovkaohsiungmap-750x1034.jpg 750w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/10220300/024shikidojinovkaohsiungmap.jpg 1000w\" sizes=\"(max-width: 743px) 100vw, 743px\" /></figure>\n\n\n\n<div style=\"height:30px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<p>這篇文章 <a rel=\"nofollow\" href=\"https://www.moelong.com/moelongnews/archives/30838\">「四季童子原畫展 in Taiwan」高雄場 將於11月12日－11月24日在高雄駅一番街舉辦</a> 最早出現於 <a rel=\"nofollow\" href=\"https://www.moelong.com/moelongnews\">萌朧動漫情報網</a>。</p>\n"
+          },
+          "wfw:commentRss": {
+            "_text": "https://www.moelong.com/moelongnews/archives/30838/feed"
+          },
+          "slash:comments": {
+            "_text": "0"
+          },
+          "post-id": {
+            "_attributes": {
+              "xmlns": "com-wordpress:feed-additions:1"
+            },
+            "_text": "30838"
+          }
+        },
+        {
+          "title": {
+            "_text": "Melonbooks宣告2024年12月19日起 停止VISA/Master信用卡付款"
+          },
+          "link": {
+            "_text": "https://www.moelong.com/moelongnews/archives/30723"
+          },
+          "comments": {
+            "_text": "https://www.moelong.com/moelongnews/archives/30723#respond"
+          },
+          "dc:creator": {
+            "_cdata": "萌朧雪猴"
+          },
+          "pubDate": {
+            "_text": "Fri, 08 Nov 2024 16:28:07 +0000"
+          },
+          "category": [
+            {
+              "_cdata": "話題情報"
+            },
+            {
+              "_cdata": "Melonbooks"
+            }
+          ],
+          "guid": {
+            "_attributes": {
+              "isPermaLink": "false"
+            },
+            "_text": "https://www.moelong.com/moelongnews/?p=30723"
+          },
+          "description": {
+            "_cdata": "<p>以同人誌為中心，專門販賣各種漫畫、動畫BD、遊戲等商品的店鋪「Melonbooks」，11月8日正式公告，將自2024年12月19日起 停止VISA/Master信用卡付款。</p>\n<p>這篇文章 <a rel=\"nofollow\" href=\"https://www.moelong.com/moelongnews/archives/30723\">Melonbooks宣告2024年12月19日起 停止VISA/Master信用卡付款</a> 最早出現於 <a rel=\"nofollow\" href=\"https://www.moelong.com/moelongnews\">萌朧動漫情報網</a>。</p>\n"
+          },
+          "content:encoded": {
+            "_cdata": "\n<p class=\"has-medium-font-size\">以同人誌為中心，專門販賣各種漫畫、動畫BD、遊戲等商品的店鋪「Melonbooks」，11月8日正式公告，將自2024年12月19日起 停止VISA/Master信用卡付款。</p>\n\n\n\n<figure class=\"wp-block-image size-full\"><img loading=\"lazy\" decoding=\"async\" width=\"780\" height=\"217\" src=\"https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/09002008/melonbooksstopvisa01.webp\" alt=\"melonbooksstopvisa01\" class=\"wp-image-30724\" title=\"Melonbooks宣告2024年12月19日起 停止VISA/Master信用卡付款 14\" srcset=\"https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/09002008/melonbooksstopvisa01.webp 780w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/09002008/melonbooksstopvisa01-300x83.webp 300w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/09002008/melonbooksstopvisa01-768x214.webp 768w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/09002008/melonbooksstopvisa01-750x209.webp 750w\" sizes=\"(max-width: 780px) 100vw, 780px\" /></figure>\n\n\n\n<div style=\"height:30px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<p class=\"has-medium-font-size\">在日本官方正式公告中提到，直到2024年12月18日，信用卡仍能使用JCB、AmericanExpress與VISA支付方式；不過2024年12月19日開始，信用卡就只能使用JCB、AmericanExpress。</p>\n\n\n\n<figure class=\"wp-block-image size-full\"><img loading=\"lazy\" decoding=\"async\" width=\"956\" height=\"655\" src=\"https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/09002011/melonbooksstopvisa02.webp\" alt=\"melonbooksstopvisa02\" class=\"wp-image-30725\" title=\"Melonbooks宣告2024年12月19日起 停止VISA/Master信用卡付款 15\" srcset=\"https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/09002011/melonbooksstopvisa02.webp 956w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/09002011/melonbooksstopvisa02-300x206.webp 300w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/09002011/melonbooksstopvisa02-768x526.webp 768w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/09002011/melonbooksstopvisa02-750x514.webp 750w\" sizes=\"(max-width: 956px) 100vw, 956px\" /></figure>\n\n\n\n<div style=\"height:30px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<p class=\"has-medium-font-size\">另外針對Melonbooks實體店鋪的信用卡支付，則是暫定會自2024年12月中旬後陸續回復VISA/Master，同時也規劃「メロブ店舗決済(Melob Store Payment)」的新支付方式。</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"724\" height=\"1024\" src=\"https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/09002018/melonbooksstopvisa03-724x1024.webp\" alt=\"melonbooksstopvisa03\" class=\"wp-image-30726\" title=\"Melonbooks宣告2024年12月19日起 停止VISA/Master信用卡付款 16\" srcset=\"https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/09002018/melonbooksstopvisa03-724x1024.webp 724w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/09002018/melonbooksstopvisa03-212x300.webp 212w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/09002018/melonbooksstopvisa03-768x1086.webp 768w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/09002018/melonbooksstopvisa03-1086x1536.webp 1086w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/09002018/melonbooksstopvisa03-1448x2048.webp 1448w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/09002018/melonbooksstopvisa03-750x1061.webp 750w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/09002018/melonbooksstopvisa03-1140x1613.webp 1140w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/09002018/melonbooksstopvisa03-scaled.webp 1810w\" sizes=\"(max-width: 724px) 100vw, 724px\" /></figure>\n\n\n\n<div style=\"height:30px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<p class=\"has-medium-font-size\">而<a href=\"https://www.plurk.com/p/3gib55u61v\" target=\"_blank\" data-type=\"link\" data-id=\"https://www.plurk.com/p/3gib55u61v\" rel=\"noreferrer noopener\">Melonbooks繁中plurk</a>也公開了此一訊息。</p>\n\n\n\n<figure class=\"wp-block-image size-full\"><img loading=\"lazy\" decoding=\"async\" width=\"526\" height=\"314\" src=\"https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/09002021/melonbooksstopvisa04.webp\" alt=\"melonbooksstopvisa04\" class=\"wp-image-30727\" title=\"Melonbooks宣告2024年12月19日起 停止VISA/Master信用卡付款 17\" srcset=\"https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/09002021/melonbooksstopvisa04.webp 526w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/09002021/melonbooksstopvisa04-300x179.webp 300w\" sizes=\"(max-width: 526px) 100vw, 526px\" /></figure>\n\n\n\n<div style=\"height:30px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<p class=\"has-medium-font-size\">目前未知Melonbooks於12月19日後，何時會恢復通販可使用VISA/Master信用卡付款。 </p>\n\n\n\n<div style=\"height:30px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<p class=\"has-medium-font-size\"><a href=\"https://www.melonbooks.co.jp/news/index.php?news_id=914\" target=\"_blank\" data-type=\"link\" data-id=\"https://www.melonbooks.co.jp/news/index.php?news_id=914\" rel=\"noreferrer noopener\">官方公告</a></p>\n<p>這篇文章 <a rel=\"nofollow\" href=\"https://www.moelong.com/moelongnews/archives/30723\">Melonbooks宣告2024年12月19日起 停止VISA/Master信用卡付款</a> 最早出現於 <a rel=\"nofollow\" href=\"https://www.moelong.com/moelongnews\">萌朧動漫情報網</a>。</p>\n"
+          },
+          "wfw:commentRss": {
+            "_text": "https://www.moelong.com/moelongnews/archives/30723/feed"
+          },
+          "slash:comments": {
+            "_text": "0"
+          },
+          "post-id": {
+            "_attributes": {
+              "xmlns": "com-wordpress:feed-additions:1"
+            },
+            "_text": "30723"
+          }
+        },
+        {
+          "title": {
+            "_text": "2024龍杰國際精品玩具展將於新竹遠東巨城舉辦 將販售戰爭之影人馬幻紫、狙擊獵狐雪白等限定商品"
+          },
+          "link": {
+            "_text": "https://www.moelong.com/moelongnews/archives/30691"
+          },
+          "comments": {
+            "_text": "https://www.moelong.com/moelongnews/archives/30691#respond"
+          },
+          "dc:creator": {
+            "_cdata": "萌朧雪猴"
+          },
+          "pubDate": {
+            "_text": "Thu, 07 Nov 2024 16:05:00 +0000"
+          },
+          "category": [
+            {
+              "_cdata": "模型周邊"
+            },
+            {
+              "_cdata": "活動新訊/報導"
+            },
+            {
+              "_cdata": "機娘"
+            },
+            {
+              "_cdata": "龍杰國際"
+            }
+          ],
+          "guid": {
+            "_attributes": {
+              "isPermaLink": "false"
+            },
+            "_text": "https://www.moelong.com/moelongnews/?p=30691"
+          },
+          "description": {
+            "_cdata": "<p>玩具模型品牌代理經銷商「龍杰國際」，公開「2024龍杰國際精品玩具展」將於新竹遠東巨城舉辦，並同步公開預計販售商品資訊。</p>\n<p>這篇文章 <a rel=\"nofollow\" href=\"https://www.moelong.com/moelongnews/archives/30691\">2024龍杰國際精品玩具展將於新竹遠東巨城舉辦 將販售戰爭之影人馬幻紫、狙擊獵狐雪白等限定商品</a> 最早出現於 <a rel=\"nofollow\" href=\"https://www.moelong.com/moelongnews\">萌朧動漫情報網</a>。</p>\n"
+          },
+          "content:encoded": {
+            "_cdata": "\n<p class=\"has-medium-font-size\">玩具模型品牌代理經銷商「龍杰國際」，公開「2024龍杰國際精品玩具展」將於新竹遠東巨城舉辦，並同步公開預計販售商品資訊。</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"299\" src=\"https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/07173310/2024toymaxfebigcitynews01-1024x299.webp\" alt=\"2024toymaxfebigcitynews01\" class=\"wp-image-30692\" title=\"2024龍杰國際精品玩具展將於新竹遠東巨城舉辦 將販售戰爭之影人馬幻紫、狙擊獵狐雪白等限定商品 18\" srcset=\"https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/07173310/2024toymaxfebigcitynews01-1024x299.webp 1024w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/07173310/2024toymaxfebigcitynews01-300x88.webp 300w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/07173310/2024toymaxfebigcitynews01-768x224.webp 768w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/07173310/2024toymaxfebigcitynews01-1536x448.webp 1536w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/07173310/2024toymaxfebigcitynews01-2048x597.webp 2048w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/07173310/2024toymaxfebigcitynews01-750x219.webp 750w, https://imgmoelong.sgp1.digitaloceanspaces.com/moelongnews/wp-content/uploads/2024/11/07173310/2024toymaxfebigcitynews01-1140x333.webp 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></figure>\n\n\n\n<div style=\"height:30px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<p class=\"has-medium-font-size\">此次限定商品涵蓋機娘組裝模型，以下為相關商品清單：</p>\n\n\n\n<p class=\"has-medium-font-size\">Moshow 模壽</p>\n\n\n\n<p class=\"has-medium-font-size\">金色限定版-湖中騎士</p>\n\n\n\n<p class=\"has-medium-font-size\">核能矩陣</p>\n\n\n\n<p class=\"has-medium-font-size\">戰爭之影-人馬幻紫配色</p>\n\n\n\n<p class=\"has-medium-font-size\">狙擊獵狐-雪白色獵狐</p>\n\n\n\n<p class=\"has-medium-font-size\">Heatboys 火仔</p>\n\n\n\n<p class=\"has-medium-font-size\">夢幻金米奇</p>\n\n\n\n<p class=\"has-medium-font-size\">夢幻藍米奇</p>\n\n\n\n<p class=\"has-medium-font-size\">夢幻粉米奇</p>\n\n\n\n<p class=\"has-medium-font-size\">金色忍者龜-拉菲爾</p>\n\n\n\n<p class=\"has-medium-font-size\">靈機魂</p>\n\n\n\n<p class=\"has-medium-font-size\">環太平洋-戰損版赤紅</p>\n\n\n\n<p class=\"has-medium-font-size\">庫造積木</p>\n\n\n\n<p class=\"has-medium-font-size\">限定版 &#8211; 魔化張飛</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img decoding=\"async\" src=\"https://img.moelong.com/images/2024toymaxfebigcitynews/2024toymaxfebigcitynews02.webp\" alt=\"\" title=\"2024龍杰國際精品玩具展將於新竹遠東巨城舉辦 將販售戰爭之影人馬幻紫、狙擊獵狐雪白等限定商品 19\"></figure>\n\n\n\n<div style=\"height:30px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<p class=\"has-medium-font-size\">「2024龍杰國際精品玩具展」，從2024年11月8日－11月21日，於新竹遠東巨城購物中心5F創藝廳舉辦。 </p>\n\n\n\n<div style=\"height:30px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<p class=\"has-medium-font-size\"><a href=\"https://www.facebook.com/TOYMAX88\" target=\"_blank\" data-type=\"link\" data-id=\"https://www.facebook.com/TOYMAX88\" rel=\"noreferrer noopener\">龍杰國際 FB粉絲專頁</a></p>\n<p>這篇文章 <a rel=\"nofollow\" href=\"https://www.moelong.com/moelongnews/archives/30691\">2024龍杰國際精品玩具展將於新竹遠東巨城舉辦 將販售戰爭之影人馬幻紫、狙擊獵狐雪白等限定商品</a> 最早出現於 <a rel=\"nofollow\" href=\"https://www.moelong.com/moelongnews\">萌朧動漫情報網</a>。</p>\n"
+          },
+          "wfw:commentRss": {
+            "_text": "https://www.moelong.com/moelongnews/archives/30691/feed"
+          },
+          "slash:comments": {
+            "_text": "0"
+          },
+          "post-id": {
+            "_attributes": {
+              "xmlns": "com-wordpress:feed-additions:1"
+            },
+            "_text": "30691"
+          }
+        }
+      ]
+    }
+  }
+}
