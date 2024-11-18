@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Sun, 17 Nov 2024 02:05:58 +0800"
+        "_text": "Mon, 18 Nov 2024 09:26:30 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,20 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "訓練家們動起來！「2024 Pokémon Run 寶可夢路跑 新北場」花絮報導"
+          },
+          "description": {
+            "_cdata": "\n　　由寶可夢官方授權、全統運動主辦的「2024 Pok&eacute;mon Run 寶可夢路跑 新北場」今（17）日於新北大都會公園舉行，這場融合路跑運動與人氣「寶可夢」IP 的大型活動，吸引了來自全台各地的男女老少寶可夢訓練家熱情參與。\n\n&nbsp;\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n&nbsp;\n\n　　活動現場氣...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=276802"
+          },
+          "pubDate": {
+            "_text": "Sun, 17 Nov 2024 23:56:50 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "《樂園追放 心之共鳴》宣布 2026 年上映 主視覺圖與特報影片搶先曝光"
@@ -447,20 +461,6 @@
           },
           "pubDate": {
             "_text": "Fri, 15 Nov 2024 16:05:52 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "ARPG 新作《終結者瑪格諾莉亞：霧中綻放》亞洲版確定 2025 年 1 月推出"
-          },
-          "description": {
-            "_cdata": "\n　　雲豹娛樂今日（11/15）宣布，由 Binary Haze Interactive 開發的動作角色扮演遊戲《終結者瑪格諾莉亞：霧中綻放》（Switch／PS5／PS4），將於 2025 年 1 月 23 日同步在亞洲地區推出實體版與數位版。\n\n&nbsp;\n\n\n\n\n\n\n\n&nbsp;\n\n關於《終結者瑪格諾莉亞：霧...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=276768"
-          },
-          "pubDate": {
-            "_text": "Fri, 15 Nov 2024 16:00:52 +0800"
           }
         }
       ]
