@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Sat, 07 Dec 2024 08:39:52 +0800"
+        "_text": "Sat, 07 Dec 2024 20:00:03 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,34 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "【電玩瘋】手機週報《魔女泡湯湯》、《逆水寒》與《Emberstoria》等遊戲"
+          },
+          "description": {
+            "_cdata": "\n\n　　巴哈姆特電玩瘋本週介紹共 12 款手機遊戲，包含繼《叛亂整治公司 Rebel Inc.》和《瘟疫公司 Plague Inc.》之後 Ndemic Creations 終於又推出全新作品《After Inc.》、像素風模擬經營遊戲《貓咪造咖》、將可愛貓貓結合下落式消除玩法的益智策略遊戲《Neko Sliding》...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=277793"
+          },
+          "pubDate": {
+            "_text": "Sat, 07 Dec 2024 20:00:01 +0800"
+          }
+        },
+        {
+          "title": {
+            "_cdata": "【專欄】「尋找反派千金」第 2 回：兩千年代乙女遊戲中的「反派千金」們"
+          },
+          "description": {
+            "_cdata": "\n\n\n\n\n　　近年來所謂「反派千金」已經成為當紅題材，但是作為這類角色形象來源的「乙女遊戲中的反派千金」，其存在其實常常有許多人對此提出疑問。那麼在乙女遊戲當中，是不是真的沒有反派千金角色存在呢？ 　　\n\n&nbsp;\n\n　　這次我們請到遊戲研究家向江駿佑，請他將在乙女遊戲中找出的「反派千金」歷史，以一共三回的篇幅和玩...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=277792"
+          },
+          "pubDate": {
+            "_text": "Sat, 07 Dec 2024 10:00:01 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "【試玩】《流亡黯道 2》正式迎來搶先體驗 翻滾帶來動作性大強化"
@@ -433,34 +461,6 @@
           },
           "pubDate": {
             "_text": "Fri, 06 Dec 2024 17:25:22 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "《真‧三國無雙 起源》體驗版突破 100 萬下載"
-          },
-          "description": {
-            "_cdata": "\n\n　　臺灣光榮特庫摩宣布，預計於 2025 年 1 月 17 日（五）發售的戰術動作遊戲「真・三國無雙」系列最新作《真‧三國無雙 起源》（PlayStation5、Xbox Series X|S、Steam）體驗版已突破 100 萬下載。\n\n&nbsp;\n\n\n\n\n\n\n\n&nbsp;\n\n　　本次開放的體驗版為故事前期的...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=277761"
-          },
-          "pubDate": {
-            "_text": "Fri, 06 Dec 2024 17:20:53 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "《戰意》12 月 19 日推出全新「斯巴達」賽季 全新武器「盾矛」登場"
-          },
-          "description": {
-            "_cdata": "\n\n　　寧意科技今（6）日宣布，《戰意（Conqueror&rsquo;s Blade）》全新「斯巴達」賽季即將於 12 月 19 日登場。本賽季將推出全新主題地圖「溫泉關」、「斯巴達兵團」，以及新武器「盾矛」。\n\n&nbsp;\n\n\n\n\n\n\n\n&nbsp;\n\n\n　　公元前 480 年，強盛的波斯帝國在國王薛西斯一世的率...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=277760"
-          },
-          "pubDate": {
-            "_text": "Fri, 06 Dec 2024 16:57:51 +0800"
           }
         }
       ]
