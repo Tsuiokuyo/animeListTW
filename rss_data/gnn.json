@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Fri, 03 Jan 2025 23:17:01 +0800"
+        "_text": "Sat, 04 Jan 2025 20:00:03 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,20 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "【電玩瘋】手機週報《獸耳神社》、《刃境》與《Hellic：赫爾貓》等遊戲"
+          },
+          "description": {
+            "_cdata": "\n\n　　巴哈姆特電玩瘋本週介紹共 10 款手機遊戲，包含像素風格結合賽博龐克的 Roguelike 回合制策略遊戲《Cyber Quest》、兩人共同遊玩的飛車生存遊戲《Back2Back》、像素復古武俠 RPG 新作《江湖風雲傳》、放置 RPG 新作《Hellic：赫爾貓》、燒腦系地下城冒險解謎遊戲《Dungeons...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=279076"
+          },
+          "pubDate": {
+            "_text": "Sat, 04 Jan 2025 20:00:01 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "動畫《Silent Witch 沉默魔女的祕密》預定 2025 開播 生天目仁美、諏訪部順一參與配音演出"
@@ -447,20 +461,6 @@
           },
           "pubDate": {
             "_text": "Fri, 03 Jan 2025 12:26:17 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "【TiCA25】同名小說改編條漫單行本《薔薇與香檳》將於動漫間期間首賣"
-          },
-          "description": {
-            "_cdata": "\n\n　　由韓國 BL 作家 ZIG 創作的小說《薔薇與香檳》，台灣角川宣布同名改編漫畫將於 2025 台北國際動漫節期間首賣的消息。\n\n&nbsp;\n\n\n\n\n\n\n\n&nbsp;\n\n　　《薔薇與香檳》故事描述，在俄羅斯擔任律師的鄭利元，接下了鄰居的委託，要搶回被市議員扣押的工廠，但市議員的背後，似乎有黑手黨在攪弄風雲。鄭...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=279045"
-          },
-          "pubDate": {
-            "_text": "Fri, 03 Jan 2025 12:18:16 +0800"
           }
         }
       ]
