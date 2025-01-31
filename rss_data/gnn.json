@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Thu, 30 Jan 2025 02:13:00 +0800"
+        "_text": "Thu, 30 Jan 2025 21:17:12 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,34 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "日本國內 Nintendo eShop 與 My Nintendo Store 將停止支援海外信用卡"
+          },
+          "description": {
+            "_cdata": "\n\n　　任天堂於今（30）日在日本官方網站發布公告，宣布為防止不正當使用，自 2025 年 3 月 25 日（二）起，日本國內的「Nintendo eShop」與「My Nintendo Store」將停止支援海外發行信用卡與海外 PayPal 帳戶。\n\n&nbsp;\n\n\n\n\n\n\n\n&nbsp;\n\n　　Nintendo...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=280192"
+          },
+          "pubDate": {
+            "_text": "Thu, 30 Jan 2025 21:17:10 +0800"
+          }
+        },
+        {
+          "title": {
+            "_cdata": "CAPCOM 焦點新作與《魔物獵人 荒野》直播節目 2/5 清晨連袂登場"
+          },
+          "description": {
+            "_cdata": "\n　　CAPCOM 今日（1/30）預告，將於台灣 / 香港時間 2 月 5 日上午 6:00 在 YouTube 播出「Capcom Spotlight + Monster Hunter Wilds Showcase Feb 2025」線上節目，介紹焦點新作與《魔物獵人 荒野》。\n\n&nbsp;\n\n\n\n\n\n&nbsp...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=280191"
+          },
+          "pubDate": {
+            "_text": "Thu, 30 Jan 2025 12:21:24 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "《魁 三國志大戰》事前預約人數突破 50 萬 預告 2025 年 3 月正式上線"
@@ -433,34 +461,6 @@
           },
           "pubDate": {
             "_text": "Sat, 25 Jan 2025 12:00:03 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "【試片】《Ubel Blatt ～斬魔凶刃～》黑暗英雄復仇之戰 討伐欺世盜名的背叛者"
-          },
-          "description": {
-            "_cdata": "\n\n　　神托曆 3968 年，爲了封鎖黑暗異邦的侵略，皇帝賦予了 14 位年輕人使命以及聖槍後將他們派送出去。其中 3 人在旅途中失去性命，4 人被定義爲背叛皇帝從而被討伐。但是，這其實是要把榮譽收爲囊中之物的 7 人背叛同伴的行爲。凱旋帝都的他們被稱作七英雄，受到帝國人民的尊敬從而登上榮華富貴的寶座。與此同時，被奪取...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=280162"
-          },
-          "pubDate": {
-            "_text": "Sat, 25 Jan 2025 12:00:02 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "【TpGS 25】《棕色塵埃 2》PD &amp;amp; CEO 李浚熙巴哈姆特獨家專訪 關於「水漬」的靈感發想是？"
-          },
-          "description": {
-            "_cdata": "\n\n　　由 NEOWIZ 營運，GAMFS N 開發的冒險 RPG《棕色塵埃 2》現正於 1 月 23 日至 1 月 26 日的「2025 台北國際電玩展」中亮相，官方表示，本次活動主題配合了一月份的遊戲更新內容，以「溫泉」作為主題進行製作，攤位採用日式風格設計，其中最大的看點為足湯拍照區，玩家可以在此與官方 Cose...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=280161"
-          },
-          "pubDate": {
-            "_text": "Sat, 25 Jan 2025 12:00:01 +0800"
           }
         }
       ]
