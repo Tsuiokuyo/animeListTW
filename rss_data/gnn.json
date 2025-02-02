@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Fri, 31 Jan 2025 18:39:46 +0800"
+        "_text": "Sun, 02 Feb 2025 01:46:52 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,20 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "【電玩瘋】手機週報《繪夢江湖》、《神召守護隊》與《王者天下 霸道》等遊戲"
+          },
+          "description": {
+            "_cdata": "\n\n　　巴哈姆特電玩瘋本週介紹共 10 款手機遊戲，包含 Unreal Engine 5 引擎開發打怪刷寶砍殺類 RPG《瓦爾哈拉 生存》、開放世界角色扮演遊戲《磁帶怪獸》登陸行動裝置、《蕪菁男孩逃漏稅》系列續作充滿幽默的動作冒險遊戲《蕪菁男孩搶銀行》、復古像素 RPG《未頌者之歌：異世界冒險奇譚》、簡單就能變成鐵路大...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=280193"
+          },
+          "pubDate": {
+            "_text": "Sat, 01 Feb 2025 20:00:01 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "日本國內 Nintendo eShop 與 My Nintendo Store 將停止支援海外信用卡"
@@ -447,20 +461,6 @@
           },
           "pubDate": {
             "_text": "Sat, 25 Jan 2025 12:19:58 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "【TpGS 25】《手搖飲店模擬器》開發者透露遊戲進度 預計今夏推出"
-          },
-          "description": {
-            "_cdata": "\n\n\n　　由高中生獨自打造的模擬新作《手搖飲店模擬器（Tea Shop Simulator）》在 2025 台北電玩展開放試玩，遊戲開發者向巴哈姆特 GNN 編輯透露目前進度與預計發售日。\n\n&nbsp;\n\n\n\n\n\n\n\n&nbsp;\n\n　　《手搖飲店模擬器》是款主打製作手搖飲及經營的模擬遊戲，玩家將接手倒閉手搖飲店，製...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=280163"
-          },
-          "pubDate": {
-            "_text": "Sat, 25 Jan 2025 12:00:03 +0800"
           }
         }
       ]
