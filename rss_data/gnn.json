@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Fri, 14 Feb 2025 22:01:18 +0800"
+        "_text": "Sat, 15 Feb 2025 20:00:02 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,20 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "【電玩瘋】手機週報《百變恰吉》、《unVEIL the world》與《Candy Crush Solitaire》等遊戲"
+          },
+          "description": {
+            "_cdata": "\n\n　　巴哈姆特電玩瘋本週介紹共 11 款手機遊戲，包含《Candy Crush Saga》原班人馬打造接龍卡牌遊戲《Candy Crush Solitaire》、中國獨立開發遊戲《光明記憶》的重製兼續作《光明記憶：無限》現在也移植到手機平台、駕駛機甲深入敵營的撤離類型遊戲&lrm;《EXOLOPER》、簡單好上手的休...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=280948"
+          },
+          "pubDate": {
+            "_text": "Sat, 15 Feb 2025 20:00:01 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "迎接完結《Thunderbolt Fantasy 東離劍遊紀 最終章》專訪虛淵玄、西川貴教分享心情與花絮"
@@ -447,20 +461,6 @@
           },
           "pubDate": {
             "_text": "Fri, 14 Feb 2025 15:58:41 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "《少女魔役》特別繪製限定版 BOX 插圖公開 敵對魔王「蓄寶魔王朵拉妮絲」介紹"
-          },
-          "description": {
-            "_cdata": "\n\n　　INTI CREATES 旗下現正開發中的探索型 2D 橫向捲軸動作遊戲《少女魔役》預計於 2025 年 3 月 27 日（四）在 Nintendo Switch、PS4、PS5、Xbox One、Xbox Series X|S 與 Steam 推出數位版，2025 年 4 月 24 日（四）在 Switch ...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=280917"
-          },
-          "pubDate": {
-            "_text": "Fri, 14 Feb 2025 15:54:13 +0800"
           }
         }
       ]
