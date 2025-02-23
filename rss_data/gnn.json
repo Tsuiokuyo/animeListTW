@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Sat, 22 Feb 2025 00:30:35 +0800"
+        "_text": "Sat, 22 Feb 2025 20:00:03 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,20 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "【電玩瘋】手機週報《仙劍世界》、《創世紀戰M：阿修羅計畫》與《TRIBE NINE：戰極死遊》等遊戲"
+          },
+          "description": {
+            "_cdata": "\n\n　　巴哈姆特電玩瘋本週介紹共 10 款手機遊戲，包含讓人暖心又暖胃的昭和系列又推出了新作《眾多回憶的西餐廳》、遠離城市喧囂體驗悠閒小鎮生活的《小生活 - 後海物語》、像素風格放置遊戲《地城姊妹》、命運少女輕放置 RPG 手遊《命運聖契：少女的羈絆》、科幻風格的 3D 密室逃脫遊戲《Tiny Robots：Porta...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=281277"
+          },
+          "pubDate": {
+            "_text": "Sat, 22 Feb 2025 20:00:00 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "新北「Pokémon GO Tour」啟動首日 開發團隊直言「台灣人真的很喜歡走路！」"
@@ -447,20 +461,6 @@
           },
           "pubDate": {
             "_text": "Fri, 21 Feb 2025 17:38:49 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "城市建造遊戲《築城記：中世紀》預計今年展開搶先體驗 免費試玩版即日推出"
-          },
-          "description": {
-            "_cdata": "\n\n　　由獨立工作室 Irregular Shapes 與發行商 Firesquid 共同推出的城市建造遊戲《築城記：中世紀（City Tales - Medieval Era）》今日推出首個試玩版，試玩版將開放至 3 月 3 日，玩家可率先感受充滿創意與沉浸感的中世紀王國建造體驗。本作預計今年內展開搶先體驗。\n\n&n...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=281245"
-          },
-          "pubDate": {
-            "_text": "Fri, 21 Feb 2025 17:29:49 +0800"
           }
         }
       ]
