@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Sun, 09 Mar 2025 01:56:23 +0800"
+        "_text": "Mon, 10 Mar 2025 09:07:02 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,20 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "《死亡擱淺 2：冥灘之上》發售日確定 預購詳情、交響音樂會與聯名腕錶同步公開"
+          },
+          "description": {
+            "_cdata": "\n\n　　由小島製作（KOJIMA PRODUCTIONS）與 PlayStation 共同舉辦的《死亡擱淺 2：冥灘之上（DEATH STRANDING 2: ON THE BEACH）》特別座談會於美國德州奧斯汀的 SXSW 展會上隆重登場。遊戲總監小島秀夫（Hideo Kojima）攜手主演諾曼・李杜斯（Norma...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=281945"
+          },
+          "pubDate": {
+            "_text": "Mon, 10 Mar 2025 09:06:35 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "《小小 holo 村～劍與商店與鄉村生活～》預定今年底問世 與 hololive 成員一起體驗鄉村慢生活"
@@ -447,20 +461,6 @@
           },
           "pubDate": {
             "_text": "Fri, 07 Mar 2025 16:12:37 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "《鴉衛奇旅》免費 DLC《羅密歐與茱麗葉》5 月登場 悲情伴侶攜手勇闖噩夢戰場"
-          },
-          "description": {
-            "_cdata": "\n　　由 Passtech Games 開發、Nacon 發行的 Roguelike 動作遊戲《鴉衛奇旅（Ravenswatch）》（PC / PS5 / PS4 / Xbox Series X|S / Switch），在今日（3/7）舉辦的「Nacon Connect 2025」直播中公布了免費 DLC 《羅密歐與茱...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=281914"
-          },
-          "pubDate": {
-            "_text": "Fri, 07 Mar 2025 16:07:54 +0800"
           }
         }
       ]
