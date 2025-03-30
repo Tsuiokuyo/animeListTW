@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Fri, 28 Mar 2025 23:27:52 +0800"
+        "_text": "Sat, 29 Mar 2025 20:00:03 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,20 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "【電玩瘋】手機週報《吉伊卡哇袋著走》、《LAST ORIGIN：最後的起源》與《惡靈古堡 3 重製版》等遊戲"
+          },
+          "description": {
+            "_cdata": "\n\n　　巴哈姆特電玩瘋本週介紹共 10 款手機遊戲，包含美少女 &times; 戰略 RPG《LAST ORIGIN : 最後的起源》、《惡靈古堡 3 重製版》是 1999 年問世的《惡靈古堡》系列第 3 代的完全重製版、休閒解謎遊戲《The Great Sneeze》、在台灣和日本都很有人氣的《吉伊卡哇》第一款手機遊...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=283086"
+          },
+          "pubDate": {
+            "_text": "Sat, 29 Mar 2025 20:00:00 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "硬派動作 RPG《第一狂戰士：卡贊》公開上市預告片與全新主視覺圖"
@@ -447,20 +461,6 @@
           },
           "pubDate": {
             "_text": "Fri, 28 Mar 2025 17:04:26 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "迎接 GeForce RTX 50 系列筆電上市　MSI 推出限時玩家公測及新品體驗活動"
-          },
-          "description": {
-            "_cdata": "\n\n　　GeForce RTX 50 系列筆電即將於 2025/3/31 正式上市，筆電品牌微星科技今日宣布將舉辦一系列活動，邀請消費者搶先體驗該筆電效能。\n\n&nbsp;\n\n\n【以下內容為廠商提供資料原文】\n\n\n&nbsp;\n\n　　全新世代 GeForce RTX 50 系列筆電即將於 2025/3/31 正式上市，...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=283048"
-          },
-          "pubDate": {
-            "_text": "Fri, 28 Mar 2025 17:01:23 +0800"
           }
         }
       ]
