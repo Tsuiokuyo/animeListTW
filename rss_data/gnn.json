@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Sun, 06 Apr 2025 03:15:44 +0800"
+        "_text": "Sun, 06 Apr 2025 23:25:23 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,48 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "大阪世博會沉浸式內容《魔物獵人 BRIDGE》親身體驗報導"
+          },
+          "description": {
+            "_cdata": "\n\n　　由 CAPCOM 推出的《魔物獵人 BRIDGE（モンスターハンター ブリッジ）》即將在 2025 年 4 月 13 日開幕的大阪・關西世博會（2025 年世界博覽會）當中參展。本作是 CAPCOM 專門為了大阪・關西世博會開發，活用《魔物獵人》系列作世界觀的沉浸式體驗型內容。\n\n&nbsp;\n\n　　這次在大阪...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=283396"
+          },
+          "pubDate": {
+            "_text": "Sun, 06 Apr 2025 22:13:42 +0800"
+          }
+        },
+        {
+          "title": {
+            "_cdata": "《毀滅戰士：黑暗時代》攻防一體的盾鋸和翻新的「壯烈擊殺」體驗"
+          },
+          "description": {
+            "_cdata": "\n\n　　2025 年 3 月 26 日，微軟公司香港辦公室舉辦了由 Bethesda Softworks 發行、id Software 負責開發的《毀滅戰士：黑暗時代（DOOM: The Dark Ages）》（PC / PS5 / Xbox Series X|S）媒體搶先試玩活動。本作是談到第一人稱視角射擊遊戲（FP...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=283395"
+          },
+          "pubDate": {
+            "_text": "Sun, 06 Apr 2025 18:58:24 +0800"
+          }
+        },
+        {
+          "title": {
+            "_cdata": "《薩爾達傳說 曠野之息 / 王國之淚》Switch 2 版體驗報導 以高畫質重溫開放世界教科書經典"
+          },
+          "description": {
+            "_cdata": "\n　　任天堂日前在紐約舉辦了新主機「Nintendo Switch 2」的媒體體驗活動，巴哈姆特 GNN 與電玩瘋第一手體驗了 Nintendo Switch 2 的多款遊戲。本篇報導將帶大家了解《薩爾達傳說 曠野之息》與《薩爾達傳說 王國之淚》這兩款配合 Nintendo Switch 2 強化畫質與流暢度表現之經典...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=283394"
+          },
+          "pubDate": {
+            "_text": "Sun, 06 Apr 2025 16:36:34 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "《超級瑪利歐派對 空前盛會》Switch 2 版全新滑鼠、麥克風與攝影機體感玩法一手體驗"
@@ -419,48 +461,6 @@
           },
           "pubDate": {
             "_text": "Thu, 03 Apr 2025 02:38:16 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "多媒體企劃《Shine Post Be Your Idol!》宣布推出 NS2 版偶像育成遊戲"
-          },
-          "description": {
-            "_cdata": "\n　　由 KONAMI 與 Straight Edge 攜手打造的多媒體企劃《Shine Post》，官方於 4 月 2 日的「Nintendo Direct: Nintendo Switch 2」活動上，宣布將推出《Shine Post Be Your Idol!》的消息。\n\n&nbsp;\n\n\n\n\n\n\n\n&nbsp;...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=283362"
-          },
-          "pubDate": {
-            "_text": "Thu, 03 Apr 2025 02:26:16 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "《電馭叛客 2077 終極版》將與 Nintendo Switch 2 主機同日發售"
-          },
-          "description": {
-            "_cdata": "\n　　CD Projekt RED 在 Nintendo Switch 2 的介紹節目「Nintendo Direct: Nintendo Switch 2 - 2025.4.2」中宣布，Nintendo Switch 2 遊戲《電馭叛客 2077 終極版》將與 Nintendo Switch 2 主機同日發售。\n\n&...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=283361"
-          },
-          "pubDate": {
-            "_text": "Thu, 03 Apr 2025 02:22:07 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "《刺客任務：殺手世界》宣布推出 NS2 版《007》全新遊戲企劃進行中"
-          },
-          "description": {
-            "_cdata": "\n　　IO Interactive 4 月 2 日於「Nintendo Direct: Nintendo Switch 2」的發表會上，宣布了《刺客任務》系列作《刺客任務：殺手世界》將推出 Nintendo Switch 2 版本的消息。同時，官方也驚喜宣布經典的《007》新作遊戲企劃正在同步進行中。\n\n&nbsp;\n...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=283360"
-          },
-          "pubDate": {
-            "_text": "Thu, 03 Apr 2025 02:09:52 +0800"
           }
         }
       ]
