@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Sat, 12 Apr 2025 20:13:25 +0800"
+        "_text": "Sun, 13 Apr 2025 19:40:00 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,20 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "任天堂釋出 Nintendo Switch 2 開發人員訪談 暢談關於新主機的一切"
+          },
+          "description": {
+            "_cdata": "\n\n　　由開發人員親自分享、任天堂研發理念與堅持的專欄「開發人員訪談」，這次邀請到預定於 6 月 5 日（四）發售的 Nintendo Switch 2 開發人員來進行訪談。\n\n&nbsp;\n\n\n\n\n\n\n\n&nbsp;\n\n\n【以下內容為廠商提供資料原文】\n\n\n&nbsp;\n\n為了提供前所未有的新玩法\n\n&nbsp;\n\n...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=283866"
+          },
+          "pubDate": {
+            "_text": "Sun, 13 Apr 2025 19:39:57 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "【電玩瘋】手機週報《8 號出口》、《高殿戰記》與《坂本日常 危險益智遊戲》等遊戲"
@@ -447,20 +461,6 @@
           },
           "pubDate": {
             "_text": "Fri, 11 Apr 2025 17:16:22 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "《Rebel Moon》世界觀新作《Blood Line : A Rebel Moon Game》開放封測報名"
-          },
-          "description": {
-            "_cdata": "\n　　由 Super Evil Megacorp &amp; Netflix Games 開發的新作《Blood Line : A Rebel Moon Game》今日公開封閉測試宣傳影片，現已展開封測玩家招募。\n\n&nbsp;\n\n\n\n\n\n\n\n&nbsp;\n\n　　官方表示，本作是一款設定於《Rebel Moon》宇宙中...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=283834"
-          },
-          "pubDate": {
-            "_text": "Fri, 11 Apr 2025 17:00:46 +0800"
           }
         }
       ]
