@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Thu, 01 May 2025 09:09:12 +0800"
+        "_text": "Fri, 02 May 2025 09:39:24 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,20 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "第 14 屆 ACG 文化與技術國際學術研討會暨巴哈姆特論文獎開放報名 將於京都與新竹舉辦"
+          },
+          "description": {
+            "_cdata": "\n　　關於廣義動漫畫、遊戲與廣義內容科技產業發展的年度重要學術盛會「第 14 屆 ACG 文化與技術國際學術研討會暨巴哈姆特論文獎 2025（The 14th International Symposium on ACG Culture and Technology and Bahamut Paper Award, A...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=284898"
+          },
+          "pubDate": {
+            "_text": "Thu, 01 May 2025 12:11:39 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "歷戰王煌雷龍亮相！《魔物獵人 荒野》活動任務「沉默的閃光」開跑"
@@ -447,20 +461,6 @@
           },
           "pubDate": {
             "_text": "Wed, 30 Apr 2025 17:22:12 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "《怪獸 8 號 THE GAME》宣布達成 10 萬人事前預約人數目標"
-          },
-          "description": {
-            "_cdata": "\n　　由 Akatsuki Games、TOHO、Production I.G 共同製作的《怪獸 8 號 THE GAME》，官方宣布日前遊戲已達成 10 萬人事前預約人數目標，玩家將能獲得可用於遊戲內的道具「信用金 &times; 100,000」。\n\n&nbsp;\n\n\n\n\n\n\n\n&nbsp;\n\n\n　　動畫《怪獸 8...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=284861"
-          },
-          "pubDate": {
-            "_text": "Wed, 30 Apr 2025 17:15:27 +0800"
           }
         }
       ]
