@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Sat, 03 May 2025 03:31:10 +0800"
+        "_text": "Sun, 04 May 2025 01:42:19 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,34 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "【電玩瘋】手機週報《暗夜絕望》、《落日山丘》與《Once Human》等遊戲"
+          },
+          "description": {
+            "_cdata": "\n\n　　巴哈姆特電玩瘋本週介紹共 10 款手機遊戲，包含敘事解謎遊戲《落日山丘》、休閒解謎遊戲《A Little to the Left: Drawers》、超自然開放世界多人生存遊戲《Once Human》、像素王國建設 RPG《迷你迷你王國》、殭屍末日題材開放世界射擊 RPG《暗夜絕望》、以原作為基礎推出的《快打旋...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=284995"
+          },
+          "pubDate": {
+            "_text": "Sat, 03 May 2025 20:00:01 +0800"
+          }
+        },
+        {
+          "title": {
+            "_cdata": "【GNN 大調查】你會買 Nintendo Switch 2 嗎？來分享你對任天堂次世代主機的觀點！"
+          },
+          "description": {
+            "_cdata": "\n　　任天堂即將於 2025 年 6 月 5 日在日本、美國、加拿大、韓國、香港等地發售最新主機「Nintendo Switch 2」，台灣地區預計 2025 年 7～9 月上市，目前已經展開預購。\n\n&nbsp;\n\n　　因應這台話題主機即將在一個月後問世，巴哈姆特編輯部特別發起 GNN 大調查，邀請各位巴友一同來分享...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=284994"
+          },
+          "pubDate": {
+            "_text": "Sat, 03 May 2025 12:00:01 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "本世代壓軸超大作《俠盜獵車手 6》宣布延期至 2026 年 5 月推出"
@@ -433,34 +461,6 @@
           },
           "pubDate": {
             "_text": "Fri, 02 May 2025 16:36:41 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "《辟邪除妖 Variants Daphne》傳說中的冒險者「洞悉命運的魔女夏莉莉妮雅」登場"
-          },
-          "description": {
-            "_cdata": "\n\n　　Drecom Co., Ltd.（總公司：日本東京都品川區，代表董事長：內藤裕紀，以下簡稱 Drecom）正式宣布，Wizardry&nbsp;系列最新作 3D 地下城 RPG《Wizardry Variants Daphne》於 2025 年 5 月 1 日（四）起舉辦各式活動，包括新傳說中的冒險者「洞悉命運...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=284965"
-          },
-          "pubDate": {
-            "_text": "Fri, 02 May 2025 16:26:32 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "《劍與遠征：啟程》×《FAIRY TAIL 魔導少年》聯動上線 新英雄「納茲」「露西」參戰"
-          },
-          "description": {
-            "_cdata": "\n　　由莉莉絲遊戲（Lilith Games） 研發團隊打造的《劍與遠征：啟程》與熱門動畫《FAIRY TAIL 魔導少年》的聯動已正式展開。本次聯動中，火之滅龍魔導士「納茲&middot;多拉格尼爾」與搭檔星靈魔導士「露西&middot;哈特菲莉亞」將一同降臨伊索米亞，帶來全新的魔法體驗。\n\n&nbsp;\n\n\n\n\n\n...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=284964"
-          },
-          "pubDate": {
-            "_text": "Fri, 02 May 2025 16:24:30 +0800"
           }
         }
       ]
