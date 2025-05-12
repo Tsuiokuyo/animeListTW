@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Sun, 11 May 2025 00:27:40 +0800"
+        "_text": "Sun, 11 May 2025 19:33:28 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,20 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "《鳴潮 Wuthering Waves》公開全新共鳴者「卡提希婭」部分戰鬥效果實機展示影片"
+          },
+          "description": {
+            "_cdata": "\n　　知名電玩活動策畫主持人喬夫‧基斯利（Geoff Keighley）今日在個人 X 上公開了開放世界動作遊戲《鳴潮 Wuthering Waves》全新共鳴者「卡提希婭」實機展示影片，供玩家們先睹為快。\n\n&nbsp;\n\n\n\n\n\n\n\n&nbsp;\n\n　　《鳴潮》是一款跨平台開放世界動作遊戲，主打高自由度的動作戰鬥玩...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=285328"
+          },
+          "pubDate": {
+            "_text": "Sun, 11 May 2025 19:33:26 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "《雷道 Remastered：超力兵團奇譚》帝都風情、角色、深度遊玩要素與免費 DLC 介紹"
@@ -447,20 +461,6 @@
           },
           "pubDate": {
             "_text": "Fri, 09 May 2025 16:26:38 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "《魁 三國志大戰》將於 5/12 舉辦發售紀念直播 邀請大戰系列資深玩家登台"
-          },
-          "description": {
-            "_cdata": "\n\n　　由 double jump.tokyo 株式會社（總公司：東京都新宿區；代表董事：上野廣伸、松谷幸紀，以下簡稱「double jump.tokyo」）所開發營運的全新三國志遊戲《魁 三國志大戰 -Battle of Three Kingdoms-》（以下簡稱《魁 三國志大戰》），將於 5 月 12 日（星期一）...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=285298"
-          },
-          "pubDate": {
-            "_text": "Fri, 09 May 2025 16:20:53 +0800"
           }
         }
       ]
