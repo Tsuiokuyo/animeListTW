@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Sat, 24 May 2025 03:08:29 +0800"
+        "_text": "Sat, 24 May 2025 20:00:03 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,20 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "【電玩瘋】手機週報《七騎士 RE:BIRTH》、《星引擎 Party》與《RO 仙境傳說：曙光》等遊戲"
+          },
+          "description": {
+            "_cdata": "\n\n　　巴哈姆特電玩瘋本週介紹共 11 款手機遊戲，包含「三麗鷗明星」三消遊戲《Hello Kitty Friends Match》、將老虎角子機結合經典 RPG 冒險的 Roguelike 作品《Spin Hero》、都市建設塔防遊戲《Thronefall》、MMORPG 系列新作《RO 仙境傳說：曙光》、毛茸茸角色...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=286055"
+          },
+          "pubDate": {
+            "_text": "Sat, 24 May 2025 20:00:01 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "宇峻奧汀 30 週年活動公開 預告《FINAL FANTASY XIV》繁體中文版預定暑假前展開首波封測"
@@ -447,20 +461,6 @@
           },
           "pubDate": {
             "_text": "Fri, 23 May 2025 15:43:47 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "《雷霆五號》真人版電影《波羅五號：超電磁新紀元》宣布在台上映"
-          },
-          "description": {
-            "_cdata": "\n\n　　以菲律賓商業電視網「GMA 電視網（GMA Network）」取得日本東映授權製作的電視影集為基礎改編，真人版電影《波羅五號：超電磁新紀元》宣布在台上映的消息。\n\n&nbsp;\n\n\n\n\n\n\n\n&nbsp;\n\n　　《波羅五號：超電磁新紀元》電影版是由東映剪輯影集精華、以全新 CG 特效和音效，打造而成的大銀幕版本...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=286014"
-          },
-          "pubDate": {
-            "_text": "Fri, 23 May 2025 15:37:23 +0800"
           }
         }
       ]
