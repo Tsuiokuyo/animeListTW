@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Fri, 30 May 2025 00:50:58 +0800"
+        "_text": "Fri, 30 May 2025 22:10:25 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,20 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "日本 Cosplay 嘉年華活動「acosta!」登陸台北 即日起一連三天於松菸熱鬧登場"
+          },
+          "description": {
+            "_cdata": "\n\n　　日本極具代表性的 Cosplay 品牌「acosta!」首度跨出日本國門，選擇台灣作為海外首站，今（30）日在台北松山文創園區正式揭幕。活動邀請近百位台日人氣 Coser 參展，開幕首日吸引眾多喜愛 Cosplay 的玩家、粉絲與攝影師到場參加，現場氣氛熱烈。主辦單位表示，「acosta! @台北」不僅是日本最...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=286324"
+          },
+          "pubDate": {
+            "_text": "Fri, 30 May 2025 16:06:35 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "《少女魔役》4 個月連續更新活動第二彈釋出 公開更新活動里程碑"
@@ -447,20 +461,6 @@
           },
           "pubDate": {
             "_text": "Thu, 29 May 2025 16:47:06 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "《Pokémon Trading Card Game Pocket》今日推出主題擴充包「異次元危機」"
-          },
-          "description": {
-            "_cdata": "\n　　株式會社寶可夢（東京都港區，代表取締役社長：石原恒和）宣布，和 Creatures Inc. 以及 DeNA Co., Ltd. 共同開發的《Pok&eacute;mon Trading Card Game Pocket》今日正式推出主題擴充包「異次元危機」。\n\n&nbsp;\n\n\n\n\n\n\n\n&nbsp;\n\n　　官...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=286294"
-          },
-          "pubDate": {
-            "_text": "Thu, 29 May 2025 16:47:00 +0800"
           }
         }
       ]
