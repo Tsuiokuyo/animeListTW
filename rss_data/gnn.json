@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Fri, 20 Jun 2025 19:41:47 +0800"
+        "_text": "Sat, 21 Jun 2025 20:00:03 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,20 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "【電玩瘋】手機週報《超級雞馬》、《七龍珠 激震小隊》與《闇影詩章：凌越世界》等遊戲"
+          },
+          "description": {
+            "_cdata": "\n\n　　巴哈姆特電玩瘋本週介紹共 11 款手機遊戲，包含由 Cygames 所推出之新世代數位卡片遊戲《闇影詩章：凌越世界》、由人氣韓國綜藝節目《地球娛樂室》改編的手機遊戲《地球娛樂室 M: Torong Wanted》、Steam 壓倒性好評派對遊戲《超級雞馬》正式登陸行動裝置、結合了超現實和古怪挑戰的益智解謎遊戲《...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=287572"
+          },
+          "pubDate": {
+            "_text": "Sat, 21 Jun 2025 20:00:01 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "橫向卷軸動作遊戲《狼之編年史》上市 由《惡魔城》系列配音擔任旁白"
@@ -447,20 +461,6 @@
           },
           "pubDate": {
             "_text": "Fri, 20 Jun 2025 17:00:43 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "《機甲變變變》預約人數突破 20 萬 釋出東雲海出演特別宣傳影片"
-          },
-          "description": {
-            "_cdata": "\n\n\n　　悟空數位今（20）日宣布，其代理的末日題材機甲&nbsp;Roguelike&nbsp;射擊手遊《機甲變變變》預約人數已成功突破 20 萬大關。官方不僅解鎖虛寶獎勵，更釋出知名人氣「機甲女神」東雲海出演的特別宣傳影片。\n\n\n\n&nbsp;\n\n\n\n&nbsp;\n\n\n\n\n\n&nbsp;\n\n【以下內容為廠商提供資料...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=287542"
-          },
-          "pubDate": {
-            "_text": "Fri, 20 Jun 2025 16:28:17 +0800"
           }
         }
       ]
