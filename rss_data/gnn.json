@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Sun, 29 Jun 2025 09:18:49 +0800"
+        "_text": "Sun, 29 Jun 2025 15:14:42 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,20 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "【GNN 大調查】Nintendo Switch 2 主機購買意願調查結果出爐 期待以更高畫質體驗任天堂本家遊戲陣容"
+          },
+          "description": {
+            "_cdata": "\n　　為迎接深受玩家期待的任天堂新主機「Nintendo Switch 2」即將於 2025 年 7 月 10 日在台上市，巴哈姆特 GNN 日前特別發起 GNN 大調查，邀請玩家投票分享對 Nintendo Switch 2 主機的看法。以下揭曉投票結果，供玩家參考。\n\n&nbsp;\n\nNintendo Switch...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=287971"
+          },
+          "pubDate": {
+            "_text": "Sun, 29 Jun 2025 14:32:12 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "《英雄聯盟》季中邀請賽 LCP 代表隊 GAM 激戰五局後獲勝　以 3：2 淘汰 FUR"
@@ -447,20 +461,6 @@
           },
           "pubDate": {
             "_text": "Fri, 27 Jun 2025 17:38:34 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "《塵白禁域》2 週年活動「合題詩篇」將於 7/10  上線 凱茜婭與黛斯的新換裝登場"
-          },
-          "description": {
-            "_cdata": "\n　　由 NIJIGEN 代理營運的 3D 美少女射擊 RPG《塵白禁域》（PC / iOS / Android）近日宣布，「合題詩篇」週年慶活動即將於 7 月 10 日正式上線。此外，官方也在昨日播出的 2 週年慶特別節目中介紹了一系列未來更新內容。\n\n&nbsp;\n\n\n\n\n\n\n\n&nbsp;\n\n\n\n\n\n&nbsp;...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=287937"
-          },
-          "pubDate": {
-            "_text": "Fri, 27 Jun 2025 17:33:15 +0800"
           }
         }
       ]
