@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Fri, 11 Jul 2025 19:19:25 +0800"
+        "_text": "Sat, 12 Jul 2025 20:00:02 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,20 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "【電玩瘋】手機週報《惡靈古堡 生存兵種》、《紙嫁衣 8 千子樹》與《Subnautica》等遊戲"
+          },
+          "description": {
+            "_cdata": "\n\n　　巴哈姆特電玩瘋本週介紹共 12 款手機遊戲，包含以阿根廷最著名的自然景觀之一「阿圖埃爾河」為背景打造的超現實探索遊戲《Atuel》、狼變身放置手機 RPG 《狼少女蘭吉！》、以「英雄變身」與「無限成長」為核心的 3D 放置 RPG《變身傳奇》、以全新縱向玩法再造經典《Angry Birds》的《Angry Bi...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=288850"
+          },
+          "pubDate": {
+            "_text": "Sat, 12 Jul 2025 20:00:00 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "《青鬼》系列新恐怖遊戲《禁區－青鬼之窟－》首度公開 由《零》系列長谷川仁擔任製作人"
@@ -447,20 +461,6 @@
           },
           "pubDate": {
             "_text": "Fri, 11 Jul 2025 16:40:30 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "獸耳戀愛遊戲《蜂蜜氛圍 Honey Vibes》中文版預定 2026 年 1 月 22 日發售"
-          },
-          "description": {
-            "_cdata": "\n\n　　Game Source Entertainment（GSE）宣布，曾獲知名遊戲週刊雜誌「Fami 通」金殿堂獎的人氣乙女遊戲《蜂蜜氛圍（暫譯，原名：Honey Vibes）》即將於 2026 年 1 月 22 日登陸 Nintendo Switch 平台，遊戲的中文版宣傳影片亦同步解禁。GSE 今天率先公開《蜂...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=288819"
-          },
-          "pubDate": {
-            "_text": "Fri, 11 Jul 2025 16:39:00 +0800"
           }
         }
       ]
