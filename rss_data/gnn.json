@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Fri, 10 Oct 2025 12:03:58 +0800"
+        "_text": "Sun, 12 Oct 2025 20:23:01 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,20 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "【巴哈ACG25】遊戲組金賞《火箭企鵝》RetroFiveGames 專訪 以極簡操作享受高挑戰性樂趣"
+          },
+          "description": {
+            "_cdata": "\n　　由巴哈姆特舉辦的「巴哈姆特 2025 ACG 創作大賽」已於日前揭曉所有組別的得獎者名單。為鼓勵得獎者及參賽者，本次 GNN 也特別專訪到在本屆賽事中各組別前三名的得獎者，分享本次的作品創作歷程及心情。本篇為大家專訪到「遊戲組」金賞《火箭企鵝》製作團隊「RetroFiveGames」的代表 Ang-Tung。\n\n...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=293727"
+          },
+          "pubDate": {
+            "_text": "Sun, 12 Oct 2025 20:22:58 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "《LET IT DIE: INFERNO》參展 Steam 10 月新品節 推出免費試玩版"
@@ -447,20 +461,6 @@
           },
           "pubDate": {
             "_text": "Thu, 09 Oct 2025 16:23:02 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "科幻 RPG《沉眠公民 2：航向星海》10 月 29 日新增法文、日文和簡體中文"
-          },
-          "description": {
-            "_cdata": "\n\n　　獨立遊戲發行商 Fellow Traveller 與開發商 Jump Over the Age 共同宣布，骰子驅動 RPG《沉眠公民 2：航向星海（暫譯，原名：Citizen Sleeper 2: Starward Vector）》預定於 10 月 29 日新增支援法語、日語和簡體中文。\n\n&nbsp;\n\n\n\n...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=293688"
-          },
-          "pubDate": {
-            "_text": "Thu, 09 Oct 2025 16:10:11 +0800"
           }
         }
       ]
