@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Fri, 21 Nov 2025 23:55:29 +0800"
+        "_text": "Sat, 22 Nov 2025 20:00:03 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,34 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "【電玩瘋】手機週報《Timelie》、《Dice of Kalma》與《Dynamix Universe》等遊戲"
+          },
+          "description": {
+            "_cdata": "\n\n　　巴哈姆特電玩瘋本週介紹共 11 款手機遊戲，包含時間操控解謎遊戲《Timelie》、由昱泉國際發行、天火數位旗下自製的首款多人線上戰鬥競技 MOBA 遊戲《特攻聯盟 G9: League of Aces》、《Deep Rock Galactic》的 IP 推出了類倖存者玩法的新作品《Deep Rock Gala...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=295971"
+          },
+          "pubDate": {
+            "_text": "Sat, 22 Nov 2025 20:00:01 +0800"
+          }
+        },
+        {
+          "title": {
+            "_cdata": "「新智慧型手機法案」會帶給日本遊戲業界何種轉變？2025 年 12 月後 App 付費方式走向之律師專門解說報導"
+          },
+          "description": {
+            "_cdata": "\n\n\n　　2025 年 12 月 18 日起，日本將會施行全新的法律「新智慧型手機法案」。2025 年第 58 號法律「智慧型手機特定軟體競爭促進法」，又稱「智慧型手機軟體競爭促進法（MSCA）」。簡稱新智慧型手機法案的此法是為了解決智慧型手機市場上因特定少數事業造成的寡占狀態而制定的法律。若再寫得更簡單點，就是「在 ...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=295970"
+          },
+          "pubDate": {
+            "_text": "Sat, 22 Nov 2025 12:00:01 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "全新玩偶系列「SEGA LABBIES」將於 SEGA STORE 發售"
@@ -433,34 +461,6 @@
           },
           "pubDate": {
             "_text": "Fri, 21 Nov 2025 17:45:29 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "《逆水寒 2.0》預告推出 2.0 新賽年資料片 全新流派「玄機」亮相、11 月 28 日開放免費轉職"
-          },
-          "description": {
-            "_cdata": "\n\n　　恩奕遊戲今（21）日宣布，旗下開放世界 MMORPG《逆水寒》將於 11 月 28 日正式推出 2.0 新賽年資料片。此次更新以「史無前例福利 &times; 全新流派 &times; 玩法自由度」為核心，全面升級遊戲體驗，帶來前所未有的開放世界新紀元。同步釋出週年慶大資料片，揭露新賽年大規模內容革新。\n\n\n\n...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=295940"
-          },
-          "pubDate": {
-            "_text": "Fri, 21 Nov 2025 17:37:05 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "《燃油車鬥魂 第三季》釋出主視覺圖與正式宣傳影片"
-          },
-          "description": {
-            "_cdata": "\n\n\n　　由重野秀一所著作品改編，電視動畫《燃油車鬥魂 第三季》今（21）日正式公開了主視覺圖、宣傳影片與主題曲資訊。\n\n&nbsp;\n\n\n\n\n\n\n\n&nbsp;\n\n\n\n　　《MF GHOST 燃油車鬥魂》故事描述，到了 202X 年，已經是電動車當道的世界，停止生產原本使用汽油為燃料的汽車。在這樣的環境下，在日本舉辦...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=295937"
-          },
-          "pubDate": {
-            "_text": "Fri, 21 Nov 2025 17:15:20 +0800"
           }
         }
       ]
