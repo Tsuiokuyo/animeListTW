@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Sat, 22 Nov 2025 20:00:03 +0800"
+        "_text": "Mon, 24 Nov 2025 10:00:40 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,20 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "《英雄聯盟》世界冠軍 ADC Gumayusi 加入 HLE  與 Zeus、Kanavi、Zeka、Delight 迎戰新賽季"
+          },
+          "description": {
+            "_cdata": "\n\n　　《英雄聯盟》LCK 戰隊 HLE 今（23）日宣布，簽下三屆世界冠軍的 ADC 選手 Gumayusi，同時也公告簽下打野選手 Kanavi。\n\n\n\n\n\n\n\n\n\n&nbsp;\n\n　　HLE 表示，Gumayusi 是一位擁有卓越競技能力與豐富經驗的 ADC 選手，期望在即將到來的 2026 年賽季能共同邁向更高...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=295972"
+          },
+          "pubDate": {
+            "_text": "Sun, 23 Nov 2025 21:39:26 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "【電玩瘋】手機週報《Timelie》、《Dice of Kalma》與《Dynamix Universe》等遊戲"
@@ -447,20 +461,6 @@
           },
           "pubDate": {
             "_text": "Fri, 21 Nov 2025 17:47:11 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "《三國：謀定天下》釋出「帷幄測試」活動內容 公開「軍演系統」遊戲玩法"
-          },
-          "description": {
-            "_cdata": "\n\n\n　　《三國：謀定天下》今日搶先釋出 11 / 27 即將展開的「帷幄測試」活動內容。官方表示，參與即可領取海量黃金、求賢令，以及專屬的紀念頭像框。官方同步釋出「粵語」的繁中版專屬配音細節，期盼能為玩家們帶來更具臨場感的沉浸式三國世界體驗。\n\n\n\n&nbsp;\n\n　　同時也搶先公開遊戲玩法「軍演系統」，揭露全新戰場...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=295941"
-          },
-          "pubDate": {
-            "_text": "Fri, 21 Nov 2025 17:45:29 +0800"
           }
         }
       ]
