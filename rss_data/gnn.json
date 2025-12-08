@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Sat, 06 Dec 2025 20:55:50 +0800"
+        "_text": "Sun, 07 Dec 2025 23:23:21 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,34 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "RPL 絕對王者！《傳說對決》泰國戰隊 Full Sense 以無敗之姿奪下 AIC 2025 冠軍"
+          },
+          "description": {
+            "_cdata": "\n\n　　《Garena 傳說對決》年度賽事「AIC 2025 國際錦標賽」準決暨冠軍賽今日在越南河內進行第二天的賽事，在稍早的比賽中，最終 Flash Wolves（FW）以 4:3 擊敗 Bacon Time（BAC）順利晉級，接著他們將與 RPL 賽區一號種子 Full Sense（FS）爭奪冠軍寶座。此次的冠軍將...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=296665"
+          },
+          "pubDate": {
+            "_text": "Sun, 07 Dec 2025 22:37:40 +0800"
+          }
+        },
+        {
+          "title": {
+            "_cdata": "離冠軍只差一步！《傳說對決》AIC 2025 閃電狼擊敗 BAC 成功晉級 將與 FS 展開最後對決"
+          },
+          "description": {
+            "_cdata": "\n\n　　《Garena 傳說對決》年度賽事「AIC 2025 國際錦標賽」準決暨冠軍賽今日在越南河內進行第二天的賽事，首先由來自泰國 RPL 賽區的 Bacon Time（BAC）對上台港澳 GCS 賽區的 Flash Wolves（FW），勝者稍晚將與 RPL 賽區一號種子 Full Sense（FS）會師冠軍賽，爭...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=296664"
+          },
+          "pubDate": {
+            "_text": "Sun, 07 Dec 2025 18:00:46 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "《傳說對決》AIC 2025 台港澳賽區 FW 擊敗 PSG　明日將與 BAC 爭奪冠亞賽資格"
@@ -433,34 +461,6 @@
           },
           "pubDate": {
             "_text": "Fri, 05 Dec 2025 18:47:19 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "新款動作遊戲《噶嗚·古拉：麵包任務》首度亮相 幫助古拉找回她遺失的麵包吧！"
-          },
-          "description": {
-            "_cdata": "\n\n　　Cover 旗下經營 hololive 創作遊戲品牌「holo Indie」的 CCMC 於 holo Indie 2 週年紀念直播中，公開以噶嗚&middot;古拉（Gawr Gura）為主角的動作遊戲《噶嗚&middot;古拉：麵包任務（暫譯，Gawr Gura: Quest for Bread）》，同步公...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=296634"
-          },
-          "pubDate": {
-            "_text": "Fri, 05 Dec 2025 18:32:34 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "AI 互動聊天 APP《夢語時光》釋出三大核心特色介紹"
-          },
-          "description": {
-            "_cdata": "\n\n\n　　由台灣在地研發商 WALKFUN 自製研發的 AI 互動 APP《夢語時光》，產品定位為「伴你左右的靈契 AI 伴侶」，透過獨家專屬的【動態微表情】觸動用戶情感，搭配可重啟平行時空的情境敘事改寫命運，更可自由套用近百種人物模組，輕鬆簡單打造專屬角色，全面提升 AI 角色的擬真度與豐沛的情感表現，徹底揮別制式化...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=296633"
-          },
-          "pubDate": {
-            "_text": "Fri, 05 Dec 2025 18:06:43 +0800"
           }
         }
       ]
