@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Sun, 28 Dec 2025 00:10:45 +0800"
+        "_text": "Mon, 29 Dec 2025 10:08:46 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,34 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "《Granblue Fantasy 碧藍幻想》Steam 國際版將於 2026 年 3 月 10 日正式上線"
+          },
+          "description": {
+            "_cdata": "\n　　負責遊戲企劃、開發、營運事業的 Cygames, Inc.（以下為 Cygames 資訊，總公司位置：東京都澀谷區，常務董事兼執行長：渡邊耕一）宣布，與旗下負責遊戲美術設計及企劃的子公司 CyDesignation, inc. （以下為 CyDesignation 資訊，總公司位置：東京都澀谷區，常務董事兼執行長...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=297808"
+          },
+          "pubDate": {
+            "_text": "Mon, 29 Dec 2025 10:04:56 +0800"
+          }
+        },
+        {
+          "title": {
+            "_cdata": "《英雄聯盟》MSI 冠軍打野 Karsa 結束 11 年職業生涯、宣布退役 預告將換個身分繼續走下去"
+          },
+          "description": {
+            "_cdata": "\n\n　　《英雄聯盟》眾多台灣玩家熟知的打野選手 Karsa（洪浩軒），今日透過 Youtube 影片正式宣布退役。\n\n\n\n\n\n\n\n\n\n\n\n\n　　Karsa 於 2014 年在 Machi17 戰隊踏上職業征途，他於 2015 年加入閃電狼戰隊後，與隊友一起在 LMS 打出漂亮表現，更於 2017 年與隊友一起獲得 IE...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=297807"
+          },
+          "pubDate": {
+            "_text": "Sun, 28 Dec 2025 21:40:58 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "【電玩瘋】手機週報《潛水員戴夫》、《CloverPit》與《Planet of Lana》等遊戲"
@@ -433,34 +461,6 @@
           },
           "pubDate": {
             "_text": "Fri, 26 Dec 2025 17:20:06 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "「Rilakkuma is always by your side 2025 in Taipei」海外限定巡迴展即日起於華山登場"
-          },
-          "description": {
-            "_cdata": "\n\n　　為慶祝療癒系角色「拉拉熊（Rilakkuma）」於 2025 年推出全新動畫作品，以「Rilakkuma is always by your side 2025」為主題的海外限定巡迴展，自 2025 年 11 月起於海外 7 大城市陸續開展，並在今年年末來到台灣，自即日起於台北華山帶來多款限定展品、打卡點與全新...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=297770"
-          },
-          "pubDate": {
-            "_text": "Fri, 26 Dec 2025 17:12:17 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "《SEGA 新創造球會 2026》事前登錄人數突破 150 萬人 釋出「創造球會實況！隊伍篇」介紹影片"
-          },
-          "description": {
-            "_cdata": "\n\n　　SEGA 宣布，預計在 PlayStation5／PlayStation4／iOS／Android／PC（Steam）平台推出的遊戲《SEGA 新創造球會 2026》（以下簡稱《新創造球會 2026》），目前的事前登錄人數已突破 150 萬人。\n\n\n&nbsp;\n\n\n\n\n\n&nbsp;\n\n　　由於事前登錄人數已...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=297769"
-          },
-          "pubDate": {
-            "_text": "Fri, 26 Dec 2025 17:12:09 +0800"
           }
         }
       ]
