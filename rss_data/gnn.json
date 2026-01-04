@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Sat, 03 Jan 2026 02:16:15 +0800"
+        "_text": "Sat, 03 Jan 2026 20:00:04 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,20 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "【電玩瘋】手機週報《貓娘樂園 Love Project Vol.3》、《學園文豪野犬》與《紙嫁衣 7 卿不負》等遊戲"
+          },
+          "description": {
+            "_cdata": "\n\n　　巴哈姆特電玩瘋本週介紹共 9 款手機遊戲，包含人氣戀愛冒險遊戲《貓娘樂園》的手機平台移植版《貓娘樂園 Love Project Vol.3》、融合城市建造與 Roguelike 卡牌構築的單人策略遊戲《Dawnmaker》、結合經典俄羅斯方塊玩法與現代益智樂趣《Tetris Block Party》、衝刺動作遊...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=298015"
+          },
+          "pubDate": {
+            "_text": "Sat, 03 Jan 2026 20:00:01 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "迎接 2026！各家遊戲廠商「新年賀圖」大搜羅"
@@ -447,20 +461,6 @@
           },
           "pubDate": {
             "_text": "Thu, 01 Jan 2026 03:40:29 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "楠木燈公布結婚喜訊 對象為學生時期便持續交往至今的圈外人士"
-          },
-          "description": {
-            "_cdata": "\n\n　　人氣聲優楠木燈（楠木ともり）稍早公開了結婚喜訊，交往對象為學生時期便交往至今的圈外人士。\n\n&nbsp;\n\n\n\n\n\n\n\n&nbsp;\n\n　　楠木燈為目前一線人氣聲優，《刀劍神域外傳 Gun Gale Online》的蓮、《Love Live！虹咲學園學園偶像同好會》的優木雪菜，以及《鏈鋸人》真紀真等眾多角色皆由...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=297961"
-          },
-          "pubDate": {
-            "_text": "Thu, 01 Jan 2026 00:19:55 +0800"
           }
         }
       ]
