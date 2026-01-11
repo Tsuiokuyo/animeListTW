@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Fri, 09 Jan 2026 21:36:12 +0800"
+        "_text": "Sat, 10 Jan 2026 20:00:04 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,20 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "【電玩瘋】手機週報《心動小鎮》、《掌心宮略》與《水銀療養院》等遊戲"
+          },
+          "description": {
+            "_cdata": "\n\n　　巴哈姆特電玩瘋本週介紹共 10 款手機遊戲，包含慢節奏生活模擬遊戲《心動小鎮》、能招集士兵作戰的策略冒險遊戲《UnderGuild: Offense》、太空科幻策略 RPG《基地：星界無間》、懸疑互動劇情遊戲《哈姆雷特：東方的王子》、放置型 RPG《Critadel rush》、操控圓滾滾小豬的冒險遊戲《Pig...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=298330"
+          },
+          "pubDate": {
+            "_text": "Sat, 10 Jan 2026 20:00:00 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "《全境封鎖》執行製作人透露《全境封鎖 3》等新作目標 將帶來不亞於初代作的巨大影響力"
@@ -447,20 +461,6 @@
           },
           "pubDate": {
             "_text": "Fri, 09 Jan 2026 17:00:01 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "世紀末救世主降臨？！ SNK 公開神秘動畫短片"
-          },
-          "description": {
-            "_cdata": "\n　　SNK 今日（1/9）在官方社群帳號與 YouTube 頻道公開了一段神秘動畫短片。\n\n&nbsp;\n\n\n\n\n\n&nbsp;\n\n　　這段短片目前看來是承襲了先前《餓狼傳說 City of the Wolves》宣傳動畫影片的風格，片中描寫了在高樓聳立的大都會角落，一對少年少女被暴徒威脅之際，一名神秘人物突然出現，...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=298300"
-          },
-          "pubDate": {
-            "_text": "Fri, 09 Jan 2026 16:58:48 +0800"
           }
         }
       ]
