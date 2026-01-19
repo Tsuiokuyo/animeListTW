@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Sun, 18 Jan 2026 01:53:54 +0800"
+        "_text": "Mon, 19 Jan 2026 10:00:04 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,34 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "講談社發行商特賣開跑 包含《不同的星球》《殺手寓言 漫畫分鏡戰》《魔導少年 地下迷城》等"
+          },
+          "description": {
+            "_cdata": "\n\n\n　　講談社遊戲實驗室（Kodansha Game Lab）在 Steam 平台展開「講談社發行商特賣」，活動至 2 月 1 日 01:59 止，本次包含《不同的星球》、《不同的冬天》、《殺手寓言 漫畫分鏡戰（暫譯，原名：The Fable: Manga Build Roguelike）》、《魔導少年 地下迷城》等...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=298696"
+          },
+          "pubDate": {
+            "_text": "Mon, 19 Jan 2026 10:00:01 +0800"
+          }
+        },
+        {
+          "title": {
+            "_cdata": "樂高宣布推出《薩爾達傳說》「時之笛 加儂最終決戰」套組"
+          },
+          "description": {
+            "_cdata": "\n\n　　樂高（LEGO）正式對外公開全新積木套組 《薩爾達傳說 時之笛》加儂最終決戰（LEGO The Legend of Zelda: Ocarina of Time &ndash; The Final Battle，編號 77093），即日起開放預購，讓玩家能以積木形式重現經典名作中最高潮的最終戰役。\n\n&nbsp...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=298695"
+          },
+          "pubDate": {
+            "_text": "Sun, 18 Jan 2026 21:14:07 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "日本環球影城「超級任天堂世界」將舉辦 5 週年特別活動"
@@ -433,34 +461,6 @@
           },
           "pubDate": {
             "_text": "Fri, 16 Jan 2026 16:59:06 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "網石宣布《七騎士》續作《七騎士 2》將於 4 月 15 日結束服務"
-          },
-          "description": {
-            "_cdata": "\n　　全球手機遊戲開發與發行公司的網石集團（Netmarble Corporation）近日宣布，旗下 RPG《七騎士 2》將於 2026 年 4 月 15 日（三）起正式結束服務，官方論壇與 SNS 也將於 5 月 14 日（四）關閉。\n\n&nbsp;\n\n\n\n\n\n\n\n&nbsp;\n\n　　《七騎士 2》講述原版《七騎士...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=298661"
-          },
-          "pubDate": {
-            "_text": "Fri, 16 Jan 2026 16:53:43 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "把鍵盤變成機槍！快節奏打字射擊遊戲《指尖碎裂》1 月 27 日發售"
-          },
-          "description": {
-            "_cdata": "\n\n　　由 Tholus 開發、Gamirror Games 發行的快節奏打字射擊遊戲《指尖碎裂》將於 1 月 27 日在 Steam 平台發售，目前可於 Steam 平台下載免費 Demo。\n\n&nbsp;\n\n　　《指尖碎裂》是一款融合了彈幕射擊和打字競速的遊戲。在遊戲中，你的每分鐘打字字數（WPM）就是你的 DPS...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=298660"
-          },
-          "pubDate": {
-            "_text": "Fri, 16 Jan 2026 16:30:50 +0800"
           }
         }
       ]
