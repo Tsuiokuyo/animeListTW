@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Tue, 17 Feb 2026 09:00:05 +0800"
+        "_text": "Tue, 17 Feb 2026 15:58:59 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,20 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "SEGA 硬體之父佐藤秀樹 13 日過世 曾參與 SEGA 旗下所有主機開發"
+          },
+          "description": {
+            "_cdata": "\n　　曾參與 SEGA 旗下從 SG-1000 到 Dreamcast 所有家用遊戲主機開發、並於 2001 年至 2003 年擔任過 SEGA 代表取締役社長的日本技術研發者與企業家佐藤秀樹，已於 2 月 13 日（五）去世，享壽 75 歲。\n\n&nbsp;\n\n　　該消息最早是由網路雜誌 Beep21 在 X 上透露...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=300443"
+          },
+          "pubDate": {
+            "_text": "Tue, 17 Feb 2026 11:32:11 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "多人 Roguelike 動作遊戲《33 不朽靈魂》試玩版推出 可體驗約 60 分鐘 33 人合作模式"
@@ -447,20 +461,6 @@
           },
           "pubDate": {
             "_text": "Fri, 13 Feb 2026 18:50:31 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "國產獨立遊戲《艾莉絲的世界》銷售量突破 1 萬套 釋出慶祝賀圖與紀念影片"
-          },
-          "description": {
-            "_cdata": "\n\n　　台灣團隊 STORIA Games 開發宣布，於 2025 年 11 月發售的懸疑冒險遊戲《艾莉絲的世界》銷量突破 10,000 套。為感謝玩家支持，開發團隊特別釋出紀念影片，以及由主美術 Nuda 繪製的賀圖，並揭開後續一系列開發計畫。\n\n&nbsp;\n\n\n\n\n\n\n\n&nbsp;\n\n\n\n　　由曾開發《夜光》、...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=300411"
-          },
-          "pubDate": {
-            "_text": "Fri, 13 Feb 2026 18:49:30 +0800"
           }
         }
       ]
