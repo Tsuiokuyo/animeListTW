@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Sat, 28 Feb 2026 09:34:10 +0800"
+        "_text": "Sun, 01 Mar 2026 00:00:04 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,34 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "日本寶可夢中心公開「寶可夢 30 週年商品特集」每月推出新主題周邊"
+          },
+          "description": {
+            "_cdata": "\n\n日本寶可夢中心線上商店（Pokemon Center ONLINE）近日公開《寶可夢》30 週年特集頁面，宣布將以「30 週年」為主軸規劃每月更換的主題商品企劃，預告每個月都會公開並推出全新周邊\n\n&nbsp;\n\n在每月更換主題中，首波主題為以「開始（はじまる）」的周邊系列「Pok&eacute;mon Timel...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=301002"
+          },
+          "pubDate": {
+            "_text": "Sun, 01 Mar 2026 00:00:01 +0800"
+          }
+        },
+        {
+          "title": {
+            "_cdata": "【電玩瘋】手機週報《虹彩六號 M》、《累趴俠》與《靈視異聞 FILE38 伊勢人魚物語》等遊戲"
+          },
+          "description": {
+            "_cdata": "\n\n　　巴哈姆特電玩瘋本週介紹共 10 款手機遊戲，包含《獵人 HUNTER&times;HUNTER》的首款類倖存者 Roguelike 動作遊戲《獵人 HUNTER&times;HUNTER NEN&times;SURVIVOR》、《虹彩六號》系列戰術 FPS 手機遊戲《虹彩六號 M》、畫風可愛又有深度的鐵道經營模...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=301001"
+          },
+          "pubDate": {
+            "_text": "Sat, 28 Feb 2026 20:00:01 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "《寶可夢 風與波》第一波詳細介紹揭曉 以美麗群島與遼闊海洋為舞台"
@@ -433,34 +461,6 @@
           },
           "pubDate": {
             "_text": "Thu, 26 Feb 2026 20:06:07 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "七英傑之書由你修復！ARPG《魔法司書阿莉艾娜》中文版發售日確定"
-          },
-          "description": {
-            "_cdata": "\n\n　　發行、代理商傑仕登宣布，由 COMPILE HEART 開發、DAEWON MEDIA 發行的作品《魔法司書阿莉艾娜 ～七英傑之書～》亞中版預定 3 月 26 日於 Nintendo Switch 和 PlayStation 5 平台正式發售。\n\n&nbsp;\n\n\n\n\n\n\n\n&nbsp;\n\n\n\n\n\n遊戲宣傳 P...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=300972"
-          },
-          "pubDate": {
-            "_text": "Thu, 26 Feb 2026 19:57:16 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "《TAITO MILESTONES 4》公開中文實體盒裝版預售資訊"
-          },
-          "description": {
-            "_cdata": "\n\n　　亞克系統亞洲（ARC SYSTEM WORKS ASIA）今日公開了由 TAITO CORPORTION 推出的 Nintendo Switch 綜合遊戲《TAITO MILESTONES 4》官方中文實體盒裝版內附特典「雙封面」以及預購特典的詳細資訊。\n\n&nbsp;\n\n\n\n\n\n\n\n&nbsp;\n\n　　《TA...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=300971"
-          },
-          "pubDate": {
-            "_text": "Thu, 26 Feb 2026 19:54:05 +0800"
           }
         }
       ]
