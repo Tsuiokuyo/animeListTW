@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Sun, 08 Mar 2026 09:32:56 +0800"
+        "_text": "Mon, 09 Mar 2026 01:03:37 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,20 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "創作歌手小林未郁 2026 台北演唱會 預定 4 月於台北 Legacy Taipei 登場"
+          },
+          "description": {
+            "_cdata": "\n\n　　曾為《進擊的巨人》、《機動戰士鋼彈 UC》等作品演唱歌曲、與知名音樂家澤野弘之合作多年的日本創作歌手小林未郁（Mika Kobayashi），正式宣布將於 2026 年 4 月 19 日在台北 Legacy Taipei 舉辦個人演唱會「Mika Kobayashi 2026 ONE-MAN LIVE in T...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=301402"
+          },
+          "pubDate": {
+            "_text": "Sun, 08 Mar 2026 22:24:28 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "《艾恩葛朗特 迴盪新聲》搶先體驗報導 化身《SAO》死亡遊戲玩家展開求生冒險"
@@ -447,20 +461,6 @@
           },
           "pubDate": {
             "_text": "Fri, 06 Mar 2026 16:22:45 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "園山雪乃《祝福 BLESS》宣布改編電視動畫 A-1 Pictures 負責製作 預定 2027 年開播"
-          },
-          "description": {
-            "_cdata": "\n　　由園山雪乃所著漫畫《祝福 BLESS（ブレス）》，官方於今（6）日宣布改編電視動畫的消息，並且釋出了前導宣傳影片與主要製作團隊。\n\n&nbsp;\n\n\n\n\n\n\n\n&nbsp;\n\n　　《祝福 BLESS》故事描述，自認沒有才能，將想做的事藏在心裡，一直迎合他人度日的男子高中生‧宇田川愛亞。某天，他突然得和班上一個不起...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=301371"
-          },
-          "pubDate": {
-            "_text": "Fri, 06 Mar 2026 16:22:21 +0800"
           }
         }
       ]
