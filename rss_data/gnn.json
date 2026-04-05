@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Fri, 03 Apr 2026 21:12:56 +0800"
+        "_text": "Sat, 04 Apr 2026 20:00:04 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,34 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "【電玩瘋】手機週報《萌腿兔的大擊腿》、《Card Crawl 2》與《薑餅人大亂鬥》等遊戲"
+          },
+          "description": {
+            "_cdata": "\n\n　　巴哈姆特電玩瘋本週介紹共 10 款手機遊戲，包含和酒保來場不要命的卡牌遊戲的《Card Crawl》推出了全新續作《Card Crawl 2》、以駕駛與探索為核心的輕鬆冒險遊戲《Easy Delivery Co.》、電影型漫畫《寄生噪》、《超時空輝耀姬！》劇中登場遊戲《萌腿兔的大擊腿》、3D 幻想原創戰術 RP...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=302951"
+          },
+          "pubDate": {
+            "_text": "Sat, 04 Apr 2026 20:00:01 +0800"
+          }
+        },
+        {
+          "title": {
+            "_cdata": "解謎動作遊戲《徑跡迴響》Switch / PS5 版正式推出 靠「靈光一閃」來開闢道路"
+          },
+          "description": {
+            "_cdata": "\n　　獨立遊戲發行商 PLAYISM 宣布，由 HANDSUM 開發的路徑重播型解謎動作遊戲《徑跡迴響》Nintendo Switch／PS5 下載版現已發售。 首發期間提供 8 折的特惠價格（PS5 僅限 PlayStation Plus 訂閱者） 。\n\n&nbsp;\n\n\n\n\n\n\n\n&nbsp;\n\n\n\n\n\n&nbsp...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=302949"
+          },
+          "pubDate": {
+            "_text": "Sat, 04 Apr 2026 15:51:35 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "章魚英雄大顯身手！ 電影風格動作冒險遊戲《達爾文悖論》正式登場"
@@ -433,34 +461,6 @@
           },
           "pubDate": {
             "_text": "Thu, 02 Apr 2026 17:00:01 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "節奏 Roguelike 動作遊戲《RATATAN 啦嗒噹》實體版今日起開放預購"
-          },
-          "description": {
-            "_cdata": "\n　　由 Ratata Arts 開發、Game Source Entertainment（GSE）發行，預定 7 月 16 日推出的節奏 Roguelike 動作遊戲《啦嗒噹（RATATAN）》，自今日（4/2）起開放 PS5 與 Nintendo Switch 實體版的預購，同時公開實體版預約特典以及數位版（標準版...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=302916"
-          },
-          "pubDate": {
-            "_text": "Thu, 02 Apr 2026 16:53:10 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "國產動作遊戲《即刻離職》將迎來二週年 同步推出音樂原聲帶"
-          },
-          "description": {
-            "_cdata": "\n　　由台灣獨立遊戲團隊「葉開罐工作室（YOHCAN Studio）」研發的職場動作遊戲《即刻離職（Quit Today）》將在 4 月 3 日迎來 Steam 平台上市二週年，開發團隊宣布遊戲原聲帶將同步上架各大音樂串流平台，遊戲本體也提供限時折扣。\n\n&nbsp;\n\n\n\n\n\n&nbsp;\n\n　　《即刻離職》是一款以...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=302915"
-          },
-          "pubDate": {
-            "_text": "Thu, 02 Apr 2026 16:52:31 +0800"
           }
         }
       ]
