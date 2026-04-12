@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Sat, 11 Apr 2026 07:19:17 +0800"
+        "_text": "Sat, 11 Apr 2026 20:00:03 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,34 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "【電玩瘋】手機週報《星之海》、《海珂：北境極光》與《洛克王國：世界》等遊戲"
+          },
+          "description": {
+            "_cdata": "\n\n　　巴哈姆特電玩瘋本週介紹共 10 款手機遊戲，包含以黏土打造世界的《黏土果醬經典版》、復古像素風 RPG《星之海》、恐怖冒險遊戲《睡夢之中》、魔物娘題材的放置卡牌 RPG 手機遊戲《幻想少女公會》、2D 像素 ARPG《海珂：北境極光》、K-POP 音樂節奏遊戲《SUPERSTAR THEBLACKLABEL》、...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=303268"
+          },
+          "pubDate": {
+            "_text": "Sat, 11 Apr 2026 20:00:01 +0800"
+          }
+        },
+        {
+          "title": {
+            "_cdata": "【試片】《主播女孩重度依賴》話題遊戲改編動畫 令全世界著迷的網路天使降臨"
+          },
+          "description": {
+            "_cdata": "\n\n　　《主播女孩重度依賴（NEEDY GIRL OVERDOSE）》的原作遊戲描述一名想要成為最強直播主，有著強烈承認欲求的女孩子，與支持她的「P」的 30 日生活。在 2022 年遊戲發售後累積了 300 萬的銷售量，而在 2026 年 4 月，為這混沌的令和網路帶來一縷光芒，「超天醬」在電視動畫登場！\n\n&nbs...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=303267"
+          },
+          "pubDate": {
+            "_text": "Sat, 11 Apr 2026 18:00:01 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "《雷頓教授與蒸氣新世界》追加新平台 久石讓 × 幾田莉拉打造主題曲"
@@ -433,34 +461,6 @@
           },
           "pubDate": {
             "_text": "Fri, 10 Apr 2026 17:01:35 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "【試片】《灰原同學重返過去，開啟所向無敵的第二輪青春遊戲》才大學就重生是不是太快？"
-          },
-          "description": {
-            "_cdata": "\n\n　　你有想忘記的國高中時代黑歷史嗎？曾經想過要度過一個跟動畫中一樣彩色的青春嗎？如果你有過這種想法，那歡迎你來試試本季這部《灰原同學重返過去，開啟所向無敵的第二輪青春遊戲》。\n\n&nbsp;\n\n　　這部由雨宮和希所創作的輕小說改編的作品，採用了近年較少見的青春戀愛+重生的題材，靠著 HJ 文庫大賞的出道後，如今也算...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=303237"
-          },
-          "pubDate": {
-            "_text": "Fri, 10 Apr 2026 17:00:01 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "這次的舞台是日本！ 《小魔女 Cotton》最新作《與你一起搖滾》今起搶先登陸大型電玩平台"
-          },
-          "description": {
-            "_cdata": "\n　　SEGA FAVE 宣布，由 SUCCESS 發行的空戰射擊遊戲《小魔女 Cotton 與你一起搖滾（コットン ロックウィズユー）》今日（4/10）在大型電玩平台「ALL.Net P-ras MULTI version 3（APM3）」開始營運。\n\n&nbsp;\n\n\n\n\n\n\n\n\n\n\n\n\n\n&nbsp;\n\n　　《小...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=303236"
-          },
-          "pubDate": {
-            "_text": "Fri, 10 Apr 2026 16:51:39 +0800"
           }
         }
       ]
