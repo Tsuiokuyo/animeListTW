@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Sat, 25 Apr 2026 22:43:00 +0800"
+        "_text": "Mon, 27 Apr 2026 11:30:45 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,34 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "黑暗奇幻卡牌遊戲《魔忌》新預告影片展示未公開劇情片段"
+          },
+          "description": {
+            "_cdata": "\n\n　　發行商 Daedalic Entertainment 與開發商 The Rat Project 宣布，旗下黑暗奇幻敘事卡牌構築遊戲《魔忌》試玩版更新，官方也透過新預告影片展示了未公開的遊戲畫面。本作將於 4 月 30 日上市，目前於 PlayStation 5、Xbox 、Nintendo Switch 平台開...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=304034"
+          },
+          "pubDate": {
+            "_text": "Mon, 27 Apr 2026 11:21:23 +0800"
+          }
+        },
+        {
+          "title": {
+            "_cdata": "台灣地區 PS5、PS5 Pro 及 PS Portal 主機售價 5/1 起調漲"
+          },
+          "description": {
+            "_cdata": "\n　　索尼互動娛樂（SIE）繼 2026 年 4 月 2 日起調漲 PS5 主機相關產品在歐美、日本等地區的建議零售價格後，今日更新台灣地區的 PS5、PS5 Pro 及 PlayStation Portal 價格調整資訊，新價格將於 2026 年 5 月 1 日起生效。\n\n&nbsp;\n\n\n\n\n\n\n\n&nbsp;\n\n...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=304031"
+          },
+          "pubDate": {
+            "_text": "Mon, 27 Apr 2026 11:12:29 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "面對自身罪孽的 Roguelike 動作遊戲《慟哭幽光／CRYMELIGHT》中文版 11/5 推出"
@@ -433,34 +461,6 @@
           },
           "pubDate": {
             "_text": "Fri, 24 Apr 2026 18:50:59 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "繼《澀谷交叉物語》後、募資平台再爆拖欠《煉獄之藍》千萬日圓款項 遊戲團隊宣布提起刑事告訴"
-          },
-          "description": {
-            "_cdata": "\n\n　　繼日前《澀谷交叉物語》傳出遭募資平台 Ubgoe 延遲撥款後，日本獨立遊戲團隊 ENDLESS SUMMER 今日也公開表示，他們所開發的新作《煉獄之藍（暫譯，パーガトリー・ブルー）》使用 Ubgoe 募資了 1093 萬日圓、至今完全未收到任何一毛錢，他們已經正式進行刑事提告程序。\n\n\n\n\n\n\n\n&nbsp;...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=303997"
-          },
-          "pubDate": {
-            "_text": "Fri, 24 Apr 2026 18:29:49 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "謀殺懸疑《十年不晚》續作《最後一杯》公開新影片 為顧客調酒探聽秘密"
-          },
-          "description": {
-            "_cdata": "\n\n　　遊戲開發團隊 Rogueside 旗下《十年不晚（暫譯，原名：Best Served Cold）》最新續作《最後一杯（暫譯，原名：Last Night Last Call）》新預告影片公開，玩家將在相同世界觀下探索新故事，為顧客調製雞尾酒，讓他們放鬆警惕，揭開秘密，並串聯線索，破解謀殺案。\n\n&nbsp;\n\n\n...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=303996"
-          },
-          "pubDate": {
-            "_text": "Fri, 24 Apr 2026 18:28:14 +0800"
           }
         }
       ]
