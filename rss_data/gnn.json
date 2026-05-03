@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Sat, 02 May 2026 04:32:31 +0800"
+        "_text": "Sun, 03 May 2026 02:50:35 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,34 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "《暗黑破壞神 4》副總監幽默提醒玩家「聽媽媽的話」！出席誓師大會親解毀滅之王巴爾下落"
+          },
+          "description": {
+            "_cdata": "\n\n　　Blizzard 為慶祝《暗黑破壞神 4：憎恨之王》在台上市，今日在台北三創園區舉辦英雄點召日，由遊戲副總監 Zaven Haroutunian 與知名《暗黑破壞神》系列玩家、金曲歌王施文彬一起率領玩家進行誓師大會，向憎恨之王墨菲斯托高喊「面對審判」，而 Zaven Haroutunian 也幽默地提醒大家要「...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=304417"
+          },
+          "pubDate": {
+            "_text": "Sat, 02 May 2026 23:53:06 +0800"
+          }
+        },
+        {
+          "title": {
+            "_cdata": "【電玩瘋】手機週報《Servant of the Lake》、《漂流少女：重逢的世界》與《YOMITORI》等遊戲"
+          },
+          "description": {
+            "_cdata": "\n\n　　巴哈姆特電玩瘋本週介紹共 10 款手機遊戲，包含模擬遊戲《Youtubers Life 3：一起直播！》、骰子 Roguelite 遊戲《點點英雄：骰子傳說》、中世紀風格棋盤合成城市建造遊戲《Hearthside: A Teeny Tiny Game》、多人合作塔防遊戲《ISEKAI GATE》、《鏽湖》系列新...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=304416"
+          },
+          "pubDate": {
+            "_text": "Sat, 02 May 2026 20:00:00 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "Indie Game Award 年度最佳遊戲設計《戰球坑洞》製作人獨家專訪：鼓勵玩家找出「破壞平衡」的超 OP 組合"
@@ -433,34 +461,6 @@
           },
           "pubDate": {
             "_text": "Thu, 30 Apr 2026 20:00:26 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "結合地雷系、百合要素視覺小說《少女蕾》公開 Steam 頁面 為完成論文攻略女孩？！"
-          },
-          "description": {
-            "_cdata": "\n\n　　由獨立遊戲團隊 MOONHERA 製作的視覺小說新作《少女蕾》Steam 頁面公開，遊戲中玩家將與地雷系女孩互動，而你的選擇將會影響你與女主角的關係，以及你的論文走向。《少女蕾》預計 2026 年內推出。\n\n&nbsp;\n\n\n\n\n\n\n\n&nbsp;\n\n　　《少女蕾》是一款結合地雷系與百合要素的視覺小說，故事描述...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=304387"
-          },
-          "pubDate": {
-            "_text": "Thu, 30 Apr 2026 19:53:42 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "《新墨魂 Online》預告新賽季 PvE「無限塔」 結合 Roguelite 玩法"
-          },
-          "description": {
-            "_cdata": "\n\n　　韓國遊戲公司 Game Research 今（30）日公開旗下 MMORPG《新墨魂 Online》新賽季的 PVE 內容「無限塔」，玩家可在兩座各 100 層的巨塔挑戰登頂，結合 Roguelite 元素累積各種隨機 Buff。此外，遊戲也加開新伺服器「崑崙爭鋒」。\n\n&nbsp;\n\n\n【以下內容為廠商提供資...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=304386"
-          },
-          "pubDate": {
-            "_text": "Thu, 30 Apr 2026 19:51:27 +0800"
           }
         }
       ]
