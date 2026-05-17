@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Sat, 16 May 2026 02:38:58 +0800"
+        "_text": "Sat, 16 May 2026 20:05:09 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,34 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "【電玩瘋】手機週報《地牢深處》、《梅格與怪物》與《Gambonanza》等遊戲"
+          },
+          "description": {
+            "_cdata": "\n\n　　巴哈姆特電玩瘋本週介紹共 10 款手機遊戲，包含 Roguelike 策略遊戲《Gambonanza》、《Dungeon Maker》團隊新作《地牢深處 Dungeon Within》、物理益智遊戲《Perchang World》、休閒模擬遊戲《Little Corner Tea House》、冒險 RPG《梅...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=305067"
+          },
+          "pubDate": {
+            "_text": "Sat, 16 May 2026 20:00:01 +0800"
+          }
+        },
+        {
+          "title": {
+            "_cdata": "【GNN 大調查】想像遊戲產業新紀元！分享你對「生成式 AI」應用在遊戲開發的想法"
+          },
+          "description": {
+            "_cdata": "\n\n　　隨著「生成式 AI」的出現，遊戲產業正迎來一場新革命。本次巴哈姆特 GNN 特別設計問卷，邀請玩家一起來分享自己對於使用「生成式 AI」進行遊戲開發有什麼想法，並一同想像未來遊戲世界的樣貌。\n\n&nbsp;\n\n\n\n\n\n\n\n&nbsp;\n\n　　生成式 AI 是一種透過學習大量數據，進而掌握其規律來產出新內容的人工...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=305066"
+          },
+          "pubDate": {
+            "_text": "Sat, 16 May 2026 12:00:01 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "森林小木屋為背景心理恐怖遊戲《Terrors to Unveil - Day Off》開放限時免費領取 揭開倖存者的夢魘往事"
@@ -433,34 +461,6 @@
           },
           "pubDate": {
             "_text": "Fri, 15 May 2026 15:48:15 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "《三國志 霸道》賽季「戰任盡力」第三期開幕 全新 LR 武將「司馬師」、「司馬昭」於 5 月更新登場"
-          },
-          "description": {
-            "_cdata": "\n\n\n　　臺灣光榮特庫摩宣布，唯一由三國志系列之本家日本光榮特庫摩推出 MMO 戰略模擬手機遊戲《三國志 霸道》，已於 5 月 14 日（四）完成 5 月更新，將介紹部分更新內容。\n\n\n\n\n&nbsp;\n\n　　5 月 14 日（四）賽季「戰任盡力」第三期開戰。可將「戰任」強化至 Lv5。在「攻城戰任」中，Lv5 的要衝...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=305033"
-          },
-          "pubDate": {
-            "_text": "Fri, 15 May 2026 15:46:32 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "日本時尚動漫聯名品牌 MAYLA 台北快閃店即日起期間限定一週登場"
-          },
-          "description": {
-            "_cdata": "\n　　來自日本、結合時尚與動漫 IP 的品牌 MAYLA 正式宣佈，自今天（5 月 15 日）起至 5 月 21 日，在台北舉辦品牌首次的台灣期間限定快閃店活動（POP-UP STORE），活動現場也聚集了排隊人潮等待入店。\n\n\n&nbsp;\n\n\n\n這裡有圖片燈箱\n\n\n\n&nbsp;\n\n　　本次快閃店將帶來 MAYLA...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=305032"
-          },
-          "pubDate": {
-            "_text": "Fri, 15 May 2026 15:45:16 +0800"
           }
         }
       ]
