@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Sat, 30 May 2026 03:08:36 +0800"
+        "_text": "Sat, 30 May 2026 20:00:04 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,34 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "【電玩瘋】手機週報《權力遊戲：國王大道》、《Crawl Tactics》與《RogueSlide》等遊戲"
+          },
+          "description": {
+            "_cdata": "\n\n　　巴哈姆特電玩瘋本週介紹共 11 款手機遊戲，包含療癒系冒險 RPG《拉蒂亞的骰子之旅》、節奏 RPG《BeatQuest Heroes》、快節奏街機風格 Roguelike 乒乓遊戲《三環彈球》 、拿起霰彈槍在西洋棋盤上冒險的《Chessfire: Shotgun Chess》、全新手機逃脫遊戲《Escape ...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=305789"
+          },
+          "pubDate": {
+            "_text": "Sat, 30 May 2026 20:00:01 +0800"
+          }
+        },
+        {
+          "title": {
+            "_cdata": "巴哈姆特 30 週年系列報導 一窺數據勇者的史詩傳說！"
+          },
+          "description": {
+            "_cdata": "\n　　巴哈姆特將於今年 10 月 28 日成立滿 30 週年！為了慶祝值得紀念的 30 歲，GNN 將在站聚到來前陸續送上六篇「巴哈姆特 30 週年系列報導：數據勇者的史詩傳說 」，與巴友們一同回顧巴哈姆特 30 年來經歷的點點滴滴。為這一系列訪談打頭陣的第一篇，就是「勇者大陸的擴張：30 年巴哈總體生命力數值分享」。...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=305788"
+          },
+          "pubDate": {
+            "_text": "Sat, 30 May 2026 12:00:00 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "《決勝時刻：現代戰爭 IV》開發團隊聯訪 首度登陸 NS2 強調會確保跨平台連線流暢運作"
@@ -433,34 +461,6 @@
           },
           "pubDate": {
             "_text": "Fri, 29 May 2026 16:59:16 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "《瑪奇英雄傳：反抗命運》曝光全景欣賞與成就系統　重溫庫漢村與冰山谷的風光"
-          },
-          "description": {
-            "_cdata": "\n\n　　NEXON 旗下以《瑪奇英雄傳》世界觀為基礎的動作角色扮演遊戲《瑪奇英雄傳：反抗命運（暫譯，Vindictus: Defying Fate）》，今（29）日公開最新開發者日誌，揭露遊戲研發中的「查看全景」與「成就系統」。\n\n\n\n\n\n\n\n&nbsp;\n\n　　研發團隊表示，「查看全景」是讓玩家在穿梭於戰場和村莊時能...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=305752"
-          },
-          "pubDate": {
-            "_text": "Fri, 29 May 2026 16:57:14 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "《冥朽：全意識》於 PS5 與 Xbox Series X|S 平台推出"
-          },
-          "description": {
-            "_cdata": "\n\n　　PQube 與 Dragonis Games 宣布，《冥朽：全意識》現已於 PlayStation 5 與 Xbox Series X|S 平台推出；此完整版不僅是《冥朽》首度登陸家用主機平台，更包含新推出的《潛意識》DLC。玩家現在可以踏入《冥朽》這個腐朽的世界，這裡融合了茲迪斯瓦夫・貝克辛斯基（Zdzisł...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=305751"
-          },
-          "pubDate": {
-            "_text": "Fri, 29 May 2026 16:55:33 +0800"
           }
         }
       ]
