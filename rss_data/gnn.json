@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Sat, 13 Jun 2026 12:09:58 +0800"
+        "_text": "Sun, 14 Jun 2026 12:02:33 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,34 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "【電玩瘋】手機週報《閃電十一人 交鋒》、《死亡帳號：蒼藍雙炎》與《果燃很派》等遊戲"
+          },
+          "description": {
+            "_cdata": "\n\n　　巴哈姆特電玩瘋本週介紹共 10 款手機遊戲，包含真人互動宮廷冒險遊戲《女王的遊戲：盛世天下》推出故事新作《女王的遊戲：盛世天下 女帝篇》、策略解謎遊戲《Sky Lobby》、經營模擬遊戲《Coffee Inc 2+》、輕度策略卡牌養成遊戲《骷髏要稱王》、融合塔防、卡組構築與自走棋的遊戲《果燃很派（Plants ...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=306651"
+          },
+          "pubDate": {
+            "_text": "Sat, 13 Jun 2026 20:00:01 +0800"
+          }
+        },
+        {
+          "title": {
+            "_cdata": "《聯盟戰棋》宣布轉換成 Unreal 引擎並推獨立 PC 用戶程式　長遠看新聯盟精靈將不支援《英雄聯盟》ARAM"
+          },
+          "description": {
+            "_cdata": "\n\n　　Riot Games 今(13)日宣布，旗下自走棋遊戲《聯盟戰棋（Teamfight Tactics）》將迎接大型技術更新，自 8 月 12 日推出的 S18 賽季起，《聯盟戰棋》將脫離現在與《英雄聯盟》共用的「海克斯科技（Hextech）」引擎，全面轉換至「Unreal 引擎」。\n\n&nbsp;\n\n\n\n\n\n\n...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=306650"
+          },
+          "pubDate": {
+            "_text": "Sat, 13 Jun 2026 13:02:39 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "連炸彈都能吃下！ 《卡莉亞的鍊金工房》公開詳細介紹 透過「進食」獲得能力與知識"
@@ -433,34 +461,6 @@
           },
           "pubDate": {
             "_text": "Fri, 12 Jun 2026 17:23:22 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "電視動畫《零之使魔》20 週年企劃啟動 展覽活動 8 月於日本展開"
-          },
-          "description": {
-            "_cdata": "\n　　作為電視動畫《零之使魔》開播 20 週年企劃的一環，官方宣布將於 8 月於日本展開展覽會的消息。\n\n&nbsp;\n\n\n\n\n\n\n\n&nbsp;\n\n\n　　由山口昇所著的輕小說作品改編，於 2006 年推出的動畫《零之使魔》，故事描述自尊非常高的露易絲，因為和人賭氣，約定要在使役魔的召喚儀式中，召喚一隻神聖、美麗又強大...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=306621"
-          },
-          "pubDate": {
-            "_text": "Fri, 12 Jun 2026 17:17:01 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "水墨風休閒新作《千里山河錄》免費試玩 Demo 上線 使用「景靈」的奇妙能力打造景致"
-          },
-          "description": {
-            "_cdata": "\n\n　　由 Betobe Studio 開發、2P Games 發行的東方美學六角拼圖建造遊戲《千里山河錄》已於 Steam 平台釋出免費試玩 Demo，並將參與 Steam 6 月新品節。本次 Demo 包含探索模式前 5 個關卡、挑戰模式 2 個關卡，通關後可解鎖創造模式，提供約 3 小時以上的創作體驗。\n\n&nb...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=306620"
-          },
-          "pubDate": {
-            "_text": "Fri, 12 Jun 2026 17:15:52 +0800"
           }
         }
       ]
