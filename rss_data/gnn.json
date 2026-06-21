@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Sat, 20 Jun 2026 09:03:42 +0800"
+        "_text": "Sat, 20 Jun 2026 22:44:08 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,34 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "Ubisoft 共同創辦人 Claude Guillemot 因墜機事故逝世"
+          },
+          "description": {
+            "_cdata": "\n\n　　根據最新外電消息，因《雷射超人》《刺客教條》《極地戰嚎》等作而聞名的法國遊戲大廠 Ubisoft，其共同創辦人之一 Claude Guillemot 於 6 月 19 日因飛機失事逝世。\n\n&nbsp;\n\n　　法國新聞媒體 ICI 最先報導，一架載有 2 人的雙引擎螺旋槳飛機在嘗試降落於法國拉波勒鎮的一座機場時...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=306967"
+          },
+          "pubDate": {
+            "_text": "Sat, 20 Jun 2026 22:41:56 +0800"
+          }
+        },
+        {
+          "title": {
+            "_cdata": "【電玩瘋】手機週報《藥師少女的獨語 後宮異聞錄》、《Pokémon Champion》與《像素深淵》等遊戲"
+          },
+          "description": {
+            "_cdata": "\n\n　　巴哈姆特電玩瘋本週介紹共 11 款手機遊戲，包含透過智慧型手機上輕鬆享受寶可夢對戰樂趣的《寶可夢 冠軍》、考驗反應與策略規劃能力的合成遊戲《Tension Head》、3D 平台動作遊戲《藍色火焰（Blue Fire）》、結合了 Roguelike 要素的塔防遊戲《Nekomancer: Tower Defen...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=306966"
+          },
+          "pubDate": {
+            "_text": "Sat, 20 Jun 2026 20:00:01 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "《亂馬 1/2》新作動畫第三季公開第二波宣傳影片"
@@ -433,34 +461,6 @@
           },
           "pubDate": {
             "_text": "Thu, 18 Jun 2026 18:19:34 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "用生理時鐘戰鬥的 Roguelike 動作遊戲《Clock Rogue》6/25 登陸 Switch 平台"
-          },
-          "description": {
-            "_cdata": "\n\n\n　　株式會社 Phoenixx（東京都武藏野市，代表取締役社長：坂本和則）宣布，用生理時鐘戰鬥的 Roguelike 動作遊戲《Clock Rogue》將於 6 月 25 日（星期四）在 Nintendo Switch 平台推出。\n\n&nbsp;\n\n　　本作現已於 Nintendo eShop 開放預購。同時為紀...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=306934"
-          },
-          "pubDate": {
-            "_text": "Thu, 18 Jun 2026 18:08:26 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "《黑色沙漠》全球直營 4 週年慶典登場 端午節特別活動同步展開"
-          },
-          "description": {
-            "_cdata": "\n\n　　韓國遊戲研發商珍艾碧絲所研發營運的 MMORPG《黑色沙漠》全球直營 4 週年紀念活動「一同點亮沙漠之光」今（18）日登場，玩家合力達成指定階段目標可額外解鎖「克羅恩石」等週年禮物；端午節特別活動同步開跑，帶來節慶限定道具。\n\n&nbsp;\n\n\n【以下內容為廠商提供資料原文】\n\n\n&nbsp;\n\n\n\n\n\n\n\n&...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=306933"
-          },
-          "pubDate": {
-            "_text": "Thu, 18 Jun 2026 18:02:50 +0800"
           }
         }
       ]
