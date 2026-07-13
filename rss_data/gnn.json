@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Sat, 11 Jul 2026 13:39:08 +0800"
+        "_text": "Mon, 13 Jul 2026 11:00:27 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,34 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "HLE 復仇成功！《英雄聯盟》2026 季中邀請賽 HLE 以 3:2 擊敗 BLG 拿下冠軍"
+          },
+          "description": {
+            "_cdata": "\n\n　　《英雄聯盟》2026 季中邀請賽（MSI）今（12）日上演中韓兩大賽區對決，分別由 LPL 第一種子 BLG 對上 LCK 第一種子 HLE，總決賽雙方你來我往打到第五場，最終由 HLE&nbsp;以 3:2 奪下 MSI 冠軍寶座，成功復仇，也打斷 BLG 的燦金之路。\n\n&nbsp;\n\n\n\n\n\n\n\n照片來源...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=308049"
+          },
+          "pubDate": {
+            "_text": "Sun, 12 Jul 2026 19:57:05 +0800"
+          }
+        },
+        {
+          "title": {
+            "_cdata": "《英雄聯盟》2026 MSI 總決賽確認「經典模式」7 月底上線 前選手 Doublelift 等帶來表演賽"
+          },
+          "description": {
+            "_cdata": "\n\n　　Riot Games 在今（12）日《英雄聯盟》2026 季中邀請賽（MSI）總決賽開打前，驚喜舉辦《英雄聯盟：經典模式》表演賽，請到 Ambition、Doublelift、PawN 等人在比賽開始前展現了該模式中的內容。同時，官方宣布《英雄聯盟：經典模式》預定 7 月 29 日上線。\n\n&nbsp;\n\n\n\n...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=308048"
+          },
+          "pubDate": {
+            "_text": "Sun, 12 Jul 2026 14:23:48 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "《Pokemon GO》千人規模團體戰紐約時代廣場登場　10 週年慶典本週末首次免費開放"
@@ -433,34 +461,6 @@
           },
           "pubDate": {
             "_text": "Thu, 09 Jul 2026 18:21:40 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "《VAMPIR：血之繼承者》7 月 22 日推出「紅月慶典」活動 搶先揭曉後續更新藍圖"
-          },
-          "description": {
-            "_cdata": "\n\n\n　　網石集團於日前的線上直播中，揭開吸血鬼風格 MMORPG《VAMPIR：血之繼承者》新情報，不僅預定於 7 月 22 日推出大型活動「紅月慶典」，還搶先揭曉《VAMPIR：血之繼承者》截至 9 月的更新藍圖，內容包含跨伺服器家族賽季制模式「家族佔領戰」、新精銳副本、全新成長系統「眷屬」以及 5 對 5 小隊戰...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=308019"
-          },
-          "pubDate": {
-            "_text": "Thu, 09 Jul 2026 18:14:17 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "復古風格驚悚點擊遊戲《人臉監控帝國》繁體中文更新推出 在反烏托邦世界擴張監視網路"
-          },
-          "description": {
-            "_cdata": "\n\n　　Wristwork 工作室宣布，旗下驚悚遊戲《人臉監控帝國（暫譯，原名：FACEMINER）》新增繁體中文更新。\n\n&nbsp;\n\n　　驚悚點擊遊戲《人臉監控帝國》最初於 2025 年 2 月 28 日推出，玩家要在設定於 1999 年的遊戲世界中，從零開始打造你的生物辨識資料帝國。透過分類資料、升級挖掘基礎設...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=308018"
-          },
-          "pubDate": {
-            "_text": "Thu, 09 Jul 2026 18:08:20 +0800"
           }
         }
       ]
