@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Sat, 05 Sep 2026 07:03:15 +0800"
+        "_text": "Sun, 06 Sep 2026 04:32:24 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,34 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "【電玩瘋】手機週報《Guidus One》、《Dogpile》與《Blossom Tales》等遊戲"
+          },
+          "description": {
+            "_cdata": "\n\n　　巴哈姆特電玩瘋本週介紹共 11 款手機遊戲，包含 2D 像素風動作冒險遊戲《Blossom Tales》、將阿拉伯世界的街頭文化、民間傳說與幽默元素融入格鬥玩法的《Karkaba》、結合即時戰鬥和 Roguelike 要素的像素風動作 RPG《Guidus One》、塔防戰鬥與建設經營合而為一的 RPG《弓姬城...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=311142"
+          },
+          "pubDate": {
+            "_text": "Sat, 05 Sep 2026 20:00:01 +0800"
+          }
+        },
+        {
+          "title": {
+            "_cdata": "動畫《新烏龍派出所》預定 2027 年開播 大地丙太郎執導、落合福嗣等人參與配音演出"
+          },
+          "description": {
+            "_cdata": "\n\n　　由秋本治所著搞笑漫畫《烏龍派出所》，配合日前新作動畫《新烏龍派出所（暫譯，原名：新こちら葛飾区亀有公園前派出所）》的消息曝光後，官方於今（5）日公開了主視覺圖與角色宣傳影片，新任聲優人選名單也同步曝光。\n\n&nbsp;\n\n\n\n\n\n\n\n&nbsp;\n\n\n　　《烏龍派出所》是由警察「兩津勘吉」為主角展開的日常搞笑喜...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=311141"
+          },
+          "pubDate": {
+            "_text": "Sat, 05 Sep 2026 13:59:57 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "《鬼武者 Way of the Sword》公開上市宣傳影片 特色要素詳細統整"
@@ -433,34 +461,6 @@
           },
           "pubDate": {
             "_text": "Fri, 04 Sep 2026 18:37:44 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "雙人太空冒險遊戲《軌道雙子星》現已登陸 Switch 2 平台"
-          },
-          "description": {
-            "_cdata": "\n\n　　由東京開發商 Shapefarm 製作，遊戲發行商兼創意工作室 Kepler Interactive 發行的復古動漫風格合作遊戲《軌道雙子星》已在 Nintendo Switch 2 正式發售。\n\n&nbsp;\n\n\n\n\n\n&nbsp;\n\n　　在《軌道雙子星》中，玩家將攜手扮演真希與尾村這對形影不離的探險搭檔，共...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=311112"
-          },
-          "pubDate": {
-            "_text": "Fri, 04 Sep 2026 18:30:16 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "《Final Fantasy Resonance》總監與製作人聯訪 灌注對點陣圖回合制《FF》的熱情全力打造"
-          },
-          "description": {
-            "_cdata": "\n　　SQUARE ENIX 製作、預定於 10 月 22 日（四）在 Nintendo Switch 2、Nintendo Switch、PS5、Xbox Series X|S、Windows 與 Steam ※ 平台推出的角色扮演遊戲《Final Fantasy Resonance》，總監古屋海斗與製作人中島啓輔在...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=311111"
-          },
-          "pubDate": {
-            "_text": "Fri, 04 Sep 2026 18:28:57 +0800"
           }
         }
       ]
