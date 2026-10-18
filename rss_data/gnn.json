@@ -23,7 +23,7 @@
         "_text": "zh-tw"
       },
       "lastBuildDate": {
-        "_text": "Sat, 17 Oct 2026 09:58:08 +0800"
+        "_text": "Sun, 18 Oct 2026 11:32:27 +0800"
       },
       "image": {
         "title": {
@@ -43,6 +43,76 @@
         }
       },
       "item": [
+        {
+          "title": {
+            "_cdata": "巴黎示威、電競戰隊遭波及！小蜜蜂 Vitality 總部慘遭洗劫　《CS2》新奪冠軍獎盃與電腦設備被搬光"
+          },
+          "description": {
+            "_cdata": "\n\n　　法國 17 日在巴黎等多個城市爆發大規模示威甚至部分地區出現趁亂洗劫，而巴黎知名電競俱樂部 Team Vitality 的電競體驗中心與總部 V.Hive 也遭人破壞闖入，不僅現場電腦設備遭到破壞或搶走，甚至旗下《絕對武力 2》戰隊 9 月剛在 StarLadder StarSeries 秋季賽拿下的冠軍獎盃也...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=313592"
+          },
+          "pubDate": {
+            "_text": "Sun, 18 Oct 2026 11:06:14 +0800"
+          }
+        },
+        {
+          "title": {
+            "_cdata": "《英雄聯盟》世界大賽 LCP 戰隊 MVK 雙殺巴西　明晨對決歐洲 KC 搶奪晉級瑞士制唯一門票"
+          },
+          "description": {
+            "_cdata": "\n\n　　《英雄聯盟》2026 世界大賽入圍賽今日清晨進行第三天賽事，太平洋職業聯賽 LCP 代表隊 MVK 再度對上首日曾經交手的巴西戰隊 FUR，結果今日再次以 3：1 擊敗對手，明日將與歐洲戰隊 KC 再次對決，爭奪晉級瑞士制階段的唯一門票。\n\n&nbsp;\n\n\n\n\n\nMVK（照片來源：Riot Games）\n\n\n...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=313591"
+          },
+          "pubDate": {
+            "_text": "Sun, 18 Oct 2026 10:22:43 +0800"
+          }
+        },
+        {
+          "title": {
+            "_cdata": "【電玩瘋】手機週報《師父》、《Minecraft Blast》與《吸血鬼爬行者》等遊戲"
+          },
+          "description": {
+            "_cdata": "\n\n　　巴哈姆特電玩瘋本週介紹共 9 款手機遊戲，包含美少女收集型 RPG《極樂事件簿》、王國管理 RPG《Yes, Your Grace 2: Snowfall》、《吸血鬼倖存者》全新衍生遊戲《吸血鬼爬行者》、美少女放置 RPG《少女迷境》、打造蟲蟲小隊戰鬥的 Roguelike 遊戲《Bug Squad Tacti...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=313590"
+          },
+          "pubDate": {
+            "_text": "Sat, 17 Oct 2026 20:00:01 +0800"
+          }
+        },
+        {
+          "title": {
+            "_cdata": "《英雄聯盟》世界大賽北美 C9 不敵巴西成為首支遭淘汰隊伍　歐洲 KC 直落三擊敗 LCP 代表隊 MVK"
+          },
+          "description": {
+            "_cdata": "\n\n　　《英雄聯盟》2026 世界大賽入圍賽今日進行第二天賽事，北美代表隊 C9 遭到巴西隊伍 FUR 擊敗、C9 成為本屆賽事首支遭到淘汰的隊伍；LCP 代表隊、越南 MVK 今日則遭到歐洲隊伍 KC 橫掃、以 0：3 吞下敗仗，MVK 與 FUR 明日將交手，獲勝者將可與 KC 爭奪唯一一張晉級瑞士制階段的門票。\n...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=313589"
+          },
+          "pubDate": {
+            "_text": "Sat, 17 Oct 2026 13:01:06 +0800"
+          }
+        },
+        {
+          "title": {
+            "_cdata": "【巴哈ACG26】動畫組銀賞《海上計程車》獻給想放棄的人們的一段小旅程"
+          },
+          "description": {
+            "_cdata": "\n\n　　由巴哈姆特舉辦的「巴哈姆特 2026 ACG 創作大賽」已於日前揭曉所有組別的得獎者名單並舉辦頒獎茶會。為鼓勵得獎者及參賽者，本次 GNN 也特別專訪到在本屆賽事中各組別前三名的得獎者，分享本次的作品創作歷程及心情。本篇就為大家專訪到「動畫組」銀賞《海上計程車》的創作團隊。\n\n&nbsp;\n\n\n\n\n\n\n\n&nb...."
+          },
+          "link": {
+            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=313588"
+          },
+          "pubDate": {
+            "_text": "Sat, 17 Oct 2026 12:00:01 +0800"
+          }
+        },
         {
           "title": {
             "_cdata": "NVIDIA 副總裁為 RTX Spark 筆電上市站台並澄清：RTX 5090 沒有停產、仍持續出貨"
@@ -391,76 +461,6 @@
           },
           "pubDate": {
             "_text": "Fri, 16 Oct 2026 17:29:04 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "ANICORN 與《新世紀福音戰士》展開聯名企劃 推出系列錶款與系列週邊"
-          },
-          "description": {
-            "_cdata": "\n\n　　ANICORN 宣布，將與《福音戰士》系列展開聯名企劃，以電視動畫版的《新世紀福音戰士（Neon Genesis Evangelion）》為靈感源，推出系列錶款與一系列週邊商品的消息。\n\n&nbsp;\n\n\n\n\n\n\n\n&nbsp;\n\n\n\n\n\n\n\n&nbsp;\n\n　　本次合作是以福音戰士初號機以及第三使徒交鋒的場景...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=313560"
-          },
-          "pubDate": {
-            "_text": "Fri, 16 Oct 2026 17:25:07 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "《伊卡洛斯 Online》今日開放預先創建角色功能　"
-          },
-          "description": {
-            "_cdata": "\n\n　　全球遊戲發行商 VALOFE 宣布，旗下 PC MMORPG《伊卡洛斯 Online》今（16）日開放預先創建角色功能，玩家能在遊戲上市前，搶先選擇伺服器、職業、角色外觀及名稱，提前打造專屬角色。本作預計 10 月 22 日（四）15:00 上線。\n\n\n&nbsp;\n\n\n\n\n\n\n\n\n&nbsp;\n\n\n　　《伊卡...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=313559"
-          },
-          "pubDate": {
-            "_text": "Fri, 16 Oct 2026 17:20:50 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "《最強劍尊：吃最軟的飯，做最硬的劍》事前預約開啟 釋出遊戲玩法介紹"
-          },
-          "description": {
-            "_cdata": "\n\n\n　　仙俠逆襲 MMO《最強劍尊：吃最軟的飯，做最硬的劍》現已正式開啟官方事前預約，App Store 與 Google Play 雙商店同步歡迎各位仙尊提前預訂，搶先鎖定開服豪禮。官方表示，一起體驗這場從廢柴逆襲到飛升，軟飯也要硬吃的劍尊傳奇。\n\n\n\n&nbsp;\n\n\n\n\n\n\n【雜靈根廢柴的逆天之路】\n\n&nbs...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=313558"
-          },
-          "pubDate": {
-            "_text": "Fri, 16 Oct 2026 17:14:56 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "CygamesEdge 首部作品《崩落之國》Steam 試玩版今日公開 體驗遊戲核心「下落」"
-          },
-          "description": {
-            "_cdata": "\n\n　　遊戲廠商 Cygames 宣布，以開發中小型規模遊戲為主的旗下品牌&nbsp;CygamesEdge 今（16）日在 Steam 平台推出首部作品《崩落之國》的試玩版，玩家將可體驗作為遊戲核心的「下降」要素。同時，包含最新內容的預告影片及遊戲價格也一併公開，正式版將於 11 月 5 日（四）登陸 PlaySta...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=313557"
-          },
-          "pubDate": {
-            "_text": "Fri, 16 Oct 2026 17:08:08 +0800"
-          }
-        },
-        {
-          "title": {
-            "_cdata": "【試片】《至高之力》守護人類與暑假的美少女機甲作品登場"
-          },
-          "description": {
-            "_cdata": "\n\n　　當年以一部《強襲魔女》系列被譽為「股監督」的高村和宏，在本月帶著一部全新作品《至高之力》爽快的空降在 10 月秋番了。\n\n&nbsp;\n\n　　這部作品在曝光之初，就被粉絲們稱為《強襲魔女》的精神續作，不只是攜帶了眾多的老班底，還採用三渲二技術，乍看之下的確似乎頗有潛力。究竟這部作品能否重現當年那個讓不少老宅們驚...."
-          },
-          "link": {
-            "_cdata": "https://gnn.gamer.com.tw/detail.php?sn=313556"
-          },
-          "pubDate": {
-            "_text": "Fri, 16 Oct 2026 17:00:01 +0800"
           }
         }
       ]
